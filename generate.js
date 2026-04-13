@@ -94,7 +94,7 @@ ${itemsText}
 
   try {
     const completion = await client.chat.completions.create({
-      model: 'hunyuan-turbos-latest',
+      model: 'hunyuan-lite',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
     });
