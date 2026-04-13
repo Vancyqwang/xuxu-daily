@@ -105,14 +105,32 @@ ${itemsText}
     });
 
     const data = await res.json();
-    const content = data.choices?.[0]?.message?.content || '[]';
+    const content = data.choices?.[0]?.message?.content || '';
+    console.log('混元返回内容（前500字）：', content.slice(0, 500));
 
-    // 提取 JSON
-    const jsonMatch = content.match(/\[[\s\S]*\]/);
-    if (jsonMatch) {
-      return JSON.parse(jsonMatch[0]);
+    if (!content) { console.log('混元返回为空'); return []; }
+
+    // 尝试多种方式提取 JSON
+    let jsonStr = '';
+    // 方式1：找 ```json ... ``` 代码块
+    const codeBlockMatch = content.match(/```(?:json)?\s*([\s\S]*?)```/);
+    if (codeBlockMatch) jsonStr = codeBlockMatch[1].trim();
+    // 方式2：找 [ ... ] 数组
+    if (!jsonStr) {
+      const arrayMatch = content.match(/\[[\s\S]*\]/);
+      if (arrayMatch) jsonStr = arrayMatch[0];
     }
-    return [];
+    // 方式3：整个内容就是 JSON
+    if (!jsonStr) jsonStr = content.trim();
+
+    try {
+      const result = JSON.parse(jsonStr);
+      return Array.isArray(result) ? result : [];
+    } catch (e) {
+      console.log('JSON 解析失败：', e.message);
+      console.log('尝试解析的内容：', jsonStr.slice(0, 300));
+      return [];
+    }
   } catch (e) {
     console.log('Hunyuan API failed:', e.message);
     return [];
