@@ -3,12 +3,12 @@ import Parser from 'rss-parser';
 import fs from 'fs';
 import path from 'path';
 
-const HUNYUAN_API_KEY = process.env.HUNYUAN_API_KEY;
+const GLM_API_KEY = process.env.GLM_API_KEY;
 const parser = new Parser({ timeout: 10000 });
 
 const client = new OpenAI({
-  apiKey: HUNYUAN_API_KEY,
-  baseURL: 'https://api.hunyuan.cloud.tencent.com/v1',
+  apiKey: GLM_API_KEY,
+  baseURL: 'https://open.bigmodel.cn/api/paas/v4/',
 });
 
 // ===== 1. 抓取 GitHub Trending（AI 相关） =====
@@ -94,7 +94,7 @@ ${itemsText}
 
   try {
     const completion = await client.chat.completions.create({
-      model: 'hunyuan-lite',
+      model: 'glm-4-flash',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
     });
