@@ -35,16 +35,21 @@ async function fetchGithubTrending() {
 // ===== 2. 抓取 RSS 新闻源 =====
 async function fetchRSS() {
   const sources = [
+    // 国内
     { name: '36kr AI', url: 'https://36kr.com/feed' },
-    { name: 'Hacker News', url: 'https://hnrss.org/frontpage?q=AI+LLM&count=20' },
     { name: '机器之心', url: 'https://www.jiqizhixin.com/rss' },
+    { name: '量子位', url: 'https://www.qbitai.com/feed' },
+    // 国际
+    { name: 'Hacker News AI', url: 'https://hnrss.org/frontpage?q=AI+LLM+GPT&count=20' },
+    { name: 'MIT Tech Review AI', url: 'https://www.technologyreview.com/feed/' },
+    { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/' },
   ];
 
   const items = [];
   for (const source of sources) {
     try {
       const feed = await parser.parseURL(source.url);
-      const recent = (feed.items || []).slice(0, 5).map(item => ({
+      const recent = (feed.items || []).slice(0, 8).map(item => ({
         title: item.title || '',
         desc: item.contentSnippet?.slice(0, 200) || item.summary?.slice(0, 200) || '',
         url: item.link || '',
