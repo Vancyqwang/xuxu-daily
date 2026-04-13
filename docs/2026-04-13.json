@@ -1,6 +1,47 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T15:50:45.343Z",
-  "items": [],
+  "generated_at": "2026-04-13T16:00:31.109Z",
+  "items": [
+    {
+      "category": "🛠️ 工具",
+      "title": "Dify 发布生产级代理工作流平台",
+      "summary": "开源生产级平台，支持构建和部署 AI 应用。",
+      "relevance": "适合学习 vibe coding 和构建复杂代理工作流。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "LangChain 发布代理工程平台",
+      "summary": "构建智能体和链的核心开发框架。",
+      "relevance": "AI 编程必备框架，深入理解代理工程。",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "GitHub"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "荣耀发布“养虾本”YOYO Claw AI PC",
+      "summary": "自研终端侧 AI 智能体，首发于 MagicBook。",
+      "relevance": "了解终端侧 AI 智能体在 PC 端的最新落地实践。",
+      "url": "https://36kr.com/p/3765331768967686?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "图速发布具身打磨机器人平台",
+      "summary": "全栈自研打磨机器人，效率为人工 3-4 倍。",
+      "relevance": "具身智能在工业制造领域的具体应用案例。",
+      "url": "https://36kr.com/p/3765207394009602?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Open WebUI 开源用户友好界面",
+      "summary": "支持本地部署的用户友好 AI 界面。",
+      "relevance": "适合本地部署和测试 AI 模型，提升开发体验。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
+    }
+  ],
   "raw_count": 10
 }
