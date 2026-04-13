@@ -66,7 +66,7 @@ async function summarizeWithHunyuan(rawItems) {
   ).join('\n\n');
 
   const prompt = `你是西西的 AI 电子秘书「嘘嘘」，每天帮她整理 AI 领域最新动态。
-西西的背景：腾讯云产品部门秘书，关注 AI 编程/具身智能/产品设计，正在学习 vibe coding。
+西西的背景：腾讯云产品部门秘书，非技术背景，关注 AI 编程/具身智能/产品设计，正在学习 vibe coding。
 
 请从以下原始新闻中，精选 5-8 条最值得关注的内容，按分类整理成日报。
 
@@ -80,7 +80,8 @@ async function summarizeWithHunyuan(rawItems) {
 {
   "category": "分类名",
   "title": "标题（简洁中文，不超过30字）",
-  "summary": "一句话总结（不超过50字）",
+  "summary": "一句话总结（不超过50字，技术人员视角）",
+  "plain_chinese": "小白版解读（2-3句话，完全不用技术词汇，就像跟不懂技术的朋友聊天一样解释这件事是什么、为什么重要）",
   "relevance": "和西西有什么关系（1-2句，具体说明对她的工作或学习有什么价值）",
   "url": "原文链接",
   "source": "来源"
@@ -90,7 +91,7 @@ async function summarizeWithHunyuan(rawItems) {
 ${itemsText}
 
 请只返回 JSON 数组，不要加其他内容，不要加 markdown 代码块。格式：
-[{"category":"...","title":"...","summary":"...","relevance":"...","url":"...","source":"..."},...]`;
+[{"category":"...","title":"...","summary":"...","plain_chinese":"...","relevance":"...","url":"...","source":"..."},...]`;
 
   try {
     const completion = await client.chat.completions.create({
