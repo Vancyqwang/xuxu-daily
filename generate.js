@@ -3,7 +3,7 @@ import Parser from 'rss-parser';
 import fs from 'fs';
 import path from 'path';
 
-const GLM_API_KEY = process.env.GLM_API_KEY;
+const GLM_API_KEY = process.env.ZHIPU_API_KEY;
 const parser = new Parser({ timeout: 10000 });
 
 const client = new OpenAI({
@@ -94,7 +94,7 @@ ${itemsText}
 
   try {
     const completion = await client.chat.completions.create({
-      model: 'glm-4-flash',
+      model: 'glm-4.7-flash',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
     });
