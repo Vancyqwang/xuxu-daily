@@ -1,10 +1,15 @@
-import fetch from 'node-fetch';
+import OpenAI from 'openai';
 import Parser from 'rss-parser';
 import fs from 'fs';
 import path from 'path';
 
 const HUNYUAN_API_KEY = process.env.HUNYUAN_API_KEY;
 const parser = new Parser({ timeout: 10000 });
+
+const client = new OpenAI({
+  apiKey: HUNYUAN_API_KEY,
+  baseURL: 'https://api.hunyuan.cloud.tencent.com/v1',
+});
 
 // ===== 1. 抓取 GitHub Trending（AI 相关） =====
 async function fetchGithubTrending() {
@@ -84,43 +89,29 @@ async function summarizeWithHunyuan(rawItems) {
 原始内容：
 ${itemsText}
 
-请只返回 JSON 数组，不要加其他内容。格式：
-[
-  { "category": "...", "title": "...", "summary": "...", "relevance": "...", "url": "...", "source": "..." },
-  ...
-]`;
+请只返回 JSON 数组，不要加其他内容，不要加 markdown 代码块。格式：
+[{"category":"...","title":"...","summary":"...","relevance":"...","url":"...","source":"..."},...]`;
 
   try {
-    const res = await fetch('https://api.hunyuan.cloud.tencent.com/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${HUNYUAN_API_KEY}`
-      },
-      body: JSON.stringify({
-        model: 'hunyuan-pro',
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.3
-      })
+    const completion = await client.chat.completions.create({
+      model: 'hunyuan-turbos-latest',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.3,
     });
 
-    const data = await res.json();
-    const content = data.choices?.[0]?.message?.content || '';
+    const content = completion.choices?.[0]?.message?.content || '';
     console.log('混元返回内容（前500字）：', content.slice(0, 500));
 
     if (!content) { console.log('混元返回为空'); return []; }
 
     // 尝试多种方式提取 JSON
     let jsonStr = '';
-    // 方式1：找 ```json ... ``` 代码块
     const codeBlockMatch = content.match(/```(?:json)?\s*([\s\S]*?)```/);
     if (codeBlockMatch) jsonStr = codeBlockMatch[1].trim();
-    // 方式2：找 [ ... ] 数组
     if (!jsonStr) {
       const arrayMatch = content.match(/\[[\s\S]*\]/);
       if (arrayMatch) jsonStr = arrayMatch[0];
     }
-    // 方式3：整个内容就是 JSON
     if (!jsonStr) jsonStr = content.trim();
 
     try {
@@ -128,11 +119,10 @@ ${itemsText}
       return Array.isArray(result) ? result : [];
     } catch (e) {
       console.log('JSON 解析失败：', e.message);
-      console.log('尝试解析的内容：', jsonStr.slice(0, 300));
       return [];
     }
   } catch (e) {
-    console.log('Hunyuan API failed:', e.message);
+    console.log('混元 API 调用失败：', e.message);
     return [];
   }
 }
