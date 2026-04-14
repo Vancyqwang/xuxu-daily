@@ -1,60 +1,60 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T01:52:16.648Z",
+  "generated_at": "2026-04-14T02:25:25.561Z",
   "items": [
     {
-      "category": "🛠️ 工具",
-      "title": "荣耀发布“龙虾”AI智能体PC",
-      "summary": "终端侧AI智能体YOYO Claw，支持多设备协同。",
-      "plain_chinese": "就是说，以后用电脑不用自己动手点来点去，有个叫“龙虾”的小助手能帮你自动处理文件、管理任务，就像有个24小时在线的私人秘书。",
-      "relevance": "展示了AI如何融入终端设备，对学习vibe coding和产品设计有参考价值。",
+      "category": "🤖 大模型",
+      "title": "字节扣子2.5发布，手机对话即可Vibe Coding",
+      "summary": "字节豆包大模型升级，支持手机端自然语言生成代码。",
+      "plain_chinese": "以前写代码得坐在电脑前敲键盘，现在用手机跟AI对话，它就能帮你把代码写好，就像请了个随叫随到的私人程序员。",
+      "relevance": "直接关联你正在学习的 Vibe Coding，展示了 AI 编程如何从电脑端延伸到手机端，降低了编程门槛。",
+      "url": "https://www.qbitai.com/2026/04/400197.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "荣耀发布“龙虾”AI智能体，搭载于轻薄本",
+      "summary": "荣耀YOYO Claw智能体首发于MagicBook，主打终端侧AI。",
+      "plain_chinese": "荣耀给电脑装了个叫“龙虾”的智能助手，能帮你自动整理文件、管理日程，就像电脑里住了个贴心的管家。",
+      "relevance": "作为产品部门秘书，关注 AI PC 的新形态，了解终端侧 AI 如何提升用户体验。",
       "url": "https://36kr.com/p/3765331768967686?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🦾 具身智能",
-      "title": "图速发布具身打磨机器人",
-      "summary": "全栈自研打磨平台，效率达人工3-4倍。",
-      "plain_chinese": "相当于给工厂装了个不知疲倦的“超级技工”，以前靠老师傅手艺活，现在靠机器精准操作，而且比人干得又快又好。",
-      "relevance": "具身智能在工业领域的实际落地案例，符合西西关注的具身智能方向。",
+      "title": "图速发布具身打磨机器人，效率提升3-4倍",
+      "summary": "LumiCraft机器人全栈自研，解决工业打磨依赖人工经验问题。",
+      "plain_chinese": "以前打磨零件全靠老师傅的手感，现在用机器人，不管谁操作，打磨出来的效果都一样好，而且速度特别快。",
+      "relevance": "了解具身智能在工业制造领域的实际落地案例，观察物理世界 AI 的应用前景。",
       "url": "https://36kr.com/p/3765207394009602?f=rss",
       "source": "36kr AI"
     },
     {
-      "category": "🤖 大模型",
-      "title": "Claude强模型疑用字节Seed技术",
-      "summary": "概念来自字节Seed团队论文，Yoshua Bengio参与。",
-      "plain_chinese": "就是说，现在市面上最厉害的AI助手，可能偷偷用了咱们国内公司字节跳动研发的“黑科技”来提升智商，连AI大佬都参与其中。",
-      "relevance": "了解大模型背后的技术竞争，关注行业前沿动态。",
+      "category": "🛠️ 工具",
+      "title": "Claude Code太贵？Goose开源免费版来了",
+      "summary": "Goose提供与Claude Code相同功能，且完全免费。",
+      "plain_chinese": "那个很厉害的AI写代码工具Claude Code一个月要两百块，现在有个叫Goose的免费替代品，功能差不多，不用花钱就能用。",
+      "relevance": "为你学习 Vibe Coding 提供低成本甚至免费的工具选择，方便你随时上手尝试。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "📄 论文/研究",
+      "title": "Claude Mythos被质疑用字节Seed技术",
+      "summary": "概念来自字节Seed团队论文，Yoshua Bengio参与其中。",
+      "plain_chinese": "Claude发布新模型Mythos，原理被指与字节Seed论文相似，连AI大神Yoshua Bengio都参与其中。",
+      "relevance": "了解大模型技术背后的学术渊源，紧跟前沿技术动态，有助于理解行业技术竞争格局。",
       "url": "https://www.qbitai.com/2026/04/400500.html",
       "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Anthropic推非程序员AI助手",
-      "summary": "Claude桌面版扩展，无需编程即可操作文件。",
-      "plain_chinese": "相当于给普通办公族发了个超级管家，你不用懂代码，只要告诉它“帮我整理一下这个文件夹”，它就能帮你自动搞定。",
-      "relevance": "产品经理视角，理解AI如何降低使用门槛，提升办公效率。",
+      "title": "Anthropic推出Cowork，无需写代码的AI助手",
+      "summary": "Claude Desktop新功能，非技术人员也能操作文件。",
+      "plain_chinese": "Anthropic出了个新功能，不需要你会写代码，只要对着电脑说话，它就能帮你处理文件、找资料，就像个全能的行政秘书。",
+      "relevance": "展示了 AI 如何赋能非技术人员，对产品设计中的“无代码化”趋势有很好的参考价值。",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Claude Code之父揭秘工作流",
-      "summary": "顶级AI编程助手背后的操作逻辑。",
-      "plain_chinese": "就是说，怎么让AI写代码像人一样聪明？这位大神分享了他的秘诀，咱们学vibe coding可以参考他的思路。",
-      "relevance": "直接关联西西正在学习的 vibe coding，提供实操参考。",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "庞伯特用AI发球机器人练球",
-      "summary": "半年训练达到NTRP 3.0水平，无需私教。",
-      "plain_chinese": "就是说，以后学网球不用请昂贵的私教了，有个AI发球机器人能根据你的水平自动发球，你只要对着它练就行，效果跟练了一年一样。",
-      "relevance": "具身智能在体育领域的有趣应用，拓宽视野。",
-      "url": "https://36kr.com/p/3764953900990977?f=rss",
-      "source": "36kr AI"
     }
   ],
   "raw_count": 36
