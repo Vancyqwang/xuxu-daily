@@ -144,24 +144,30 @@ async function main() {
     fetchRSS()
   ]);
 
-  const allItems = [...githubItems, ...rssItems];
-  console.log(`📦 共抓取 ${allItems.length} 条原始内容`);
+  console.log(`📦 GitHub: ${githubItems.length} 条，RSS: ${rssItems.length} 条`);
 
-  if (allItems.length === 0) {
-    console.log('⚠️ 没有抓到内容，跳过生成');
-    return;
-  }
+  // RSS 新闻通过 AI 总结
+  const summaries = rssItems.length > 0 ? await summarizeWithHunyuan(rssItems) : [];
+  console.log(`✅ AI 精选出 ${summaries.length} 条新闻`);
 
-  // 混元总结
-  const summaries = await summarizeWithHunyuan(allItems);
-  console.log(`✅ 混元精选出 ${summaries.length} 条`);
+  // GitHub 项目直接格式化（不经 AI 过滤，保证每天有推荐）
+  const githubFormatted = githubItems.map(item => ({
+    category: '⭐ GitHub',
+    title: item.title,
+    summary: item.desc || '暂无描述',
+    plain_chinese: `这是一个 GitHub 上近期很热门的 AI 项目，已获得 ${item.stars?.toLocaleString() || '大量'} 个收藏，说明很多开发者觉得它有用。`,
+    relevance: '关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。',
+    url: item.url,
+    source: 'GitHub'
+  }));
 
   // 构建日报 JSON
   const daily = {
     date: today,
     generated_at: new Date().toISOString(),
-    items: summaries,
-    raw_count: allItems.length
+    items: summaries,          // AI 总结的新闻
+    github: githubFormatted,   // GitHub 项目独立存储
+    raw_count: githubItems.length + rssItems.length
   };
 
   // 保存
