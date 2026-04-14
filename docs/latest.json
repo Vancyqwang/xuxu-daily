@@ -1,60 +1,52 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T02:25:25.561Z",
-  "items": [
+  "generated_at": "2026-04-14T07:50:15.437Z",
+  "items": [],
+  "github": [
     {
-      "category": "🤖 大模型",
-      "title": "字节扣子2.5发布，手机对话即可Vibe Coding",
-      "summary": "字节豆包大模型升级，支持手机端自然语言生成代码。",
-      "plain_chinese": "以前写代码得坐在电脑前敲键盘，现在用手机跟AI对话，它就能帮你把代码写好，就像请了个随叫随到的私人程序员。",
-      "relevance": "直接关联你正在学习的 Vibe Coding，展示了 AI 编程如何从电脑端延伸到手机端，降低了编程门槛。",
-      "url": "https://www.qbitai.com/2026/04/400197.html",
-      "source": "量子位"
+      "category": "⭐ GitHub",
+      "title": "Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 183,409 个收藏，说明很多开发者觉得它有用。",
+      "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
     },
     {
-      "category": "🦾 具身智能",
-      "title": "荣耀发布“龙虾”AI智能体，搭载于轻薄本",
-      "summary": "荣耀YOYO Claw智能体首发于MagicBook，主打终端侧AI。",
-      "plain_chinese": "荣耀给电脑装了个叫“龙虾”的智能助手，能帮你自动整理文件、管理日程，就像电脑里住了个贴心的管家。",
-      "relevance": "作为产品部门秘书，关注 AI PC 的新形态，了解终端侧 AI 如何提升用户体验。",
-      "url": "https://36kr.com/p/3765331768967686?f=rss",
-      "source": "36kr AI"
+      "category": "⭐ GitHub",
+      "title": "f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 159,640 个收藏，说明很多开发者觉得它有用。",
+      "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
     },
     {
-      "category": "🦾 具身智能",
-      "title": "图速发布具身打磨机器人，效率提升3-4倍",
-      "summary": "LumiCraft机器人全栈自研，解决工业打磨依赖人工经验问题。",
-      "plain_chinese": "以前打磨零件全靠老师傅的手感，现在用机器人，不管谁操作，打磨出来的效果都一样好，而且速度特别快。",
-      "relevance": "了解具身智能在工业制造领域的实际落地案例，观察物理世界 AI 的应用前景。",
-      "url": "https://36kr.com/p/3765207394009602?f=rss",
-      "source": "36kr AI"
+      "category": "⭐ GitHub",
+      "title": "langgenius/dify",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 137,677 个收藏，说明很多开发者觉得它有用。",
+      "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "Claude Code太贵？Goose开源免费版来了",
-      "summary": "Goose提供与Claude Code相同功能，且完全免费。",
-      "plain_chinese": "那个很厉害的AI写代码工具Claude Code一个月要两百块，现在有个叫Goose的免费替代品，功能差不多，不用花钱就能用。",
-      "relevance": "为你学习 Vibe Coding 提供低成本甚至免费的工具选择，方便你随时上手尝试。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI"
+      "category": "⭐ GitHub",
+      "title": "langchain-ai/langchain",
+      "summary": "The agent engineering platform",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 133,490 个收藏，说明很多开发者觉得它有用。",
+      "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "GitHub"
     },
     {
-      "category": "📄 论文/研究",
-      "title": "Claude Mythos被质疑用字节Seed技术",
-      "summary": "概念来自字节Seed团队论文，Yoshua Bengio参与其中。",
-      "plain_chinese": "Claude发布新模型Mythos，原理被指与字节Seed论文相似，连AI大神Yoshua Bengio都参与其中。",
-      "relevance": "了解大模型技术背后的学术渊源，紧跟前沿技术动态，有助于理解行业技术竞争格局。",
-      "url": "https://www.qbitai.com/2026/04/400500.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Anthropic推出Cowork，无需写代码的AI助手",
-      "summary": "Claude Desktop新功能，非技术人员也能操作文件。",
-      "plain_chinese": "Anthropic出了个新功能，不需要你会写代码，只要对着电脑说话，它就能帮你处理文件、找资料，就像个全能的行政秘书。",
-      "relevance": "展示了 AI 如何赋能非技术人员，对产品设计中的“无代码化”趋势有很好的参考价值。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
+      "category": "⭐ GitHub",
+      "title": "open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 131,734 个收藏，说明很多开发者觉得它有用。",
+      "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
     }
   ],
   "raw_count": 36
