@@ -1,13 +1,68 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T07:50:15.437Z",
-  "items": [],
+  "generated_at": "2026-04-14T08:53:34.229Z",
+  "items": [
+    {
+      "category": "🦾 具身智能",
+      "title": "半年融资近2亿，庞伯特发球机器人解决训练难题",
+      "summary": "庞伯特创始人用发球机器人自学网球，半年达到NTRP 3.0水平。",
+      "plain_chinese": "就是说，有个叫庞伯特的公司，造了个专门发球的机器人。创始人没请私教，就天天对着机器人练，结果半年时间，球技就达到了普通人练一两年的水平。这说明以后想学打球，可能不用找真人教练，直接让机器人陪练就行了。",
+      "relevance": "西西正在学习 vibe coding，具身智能是热门方向。这个案例展示了 AI 机器人如何模拟真实场景进行训练，对理解“物理世界 AI”很有帮助。",
+      "url": "https://36kr.com/p/3764953900990977?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "荣耀发布AI PC，内置智能体YOYO Claw",
+      "summary": "荣耀发布自研终端侧AI智能体YOYO Claw，首发搭载于轻薄本。",
+      "plain_chinese": "就是说，荣耀新出的笔记本电脑里，装了一个叫“YOYO Claw”的小助手。它就像电脑里的私人管家，能帮你处理各种杂事，比如整理文件、提醒日程什么的。以后用电脑可能不用自己动手点来点去，直接跟它说话就行。",
+      "relevance": "西西关注产品设计，荣耀的“养虾本”展示了 AI PC 的新形态。YOYO Claw 的出现意味着未来的电脑不仅是工具，更是能主动服务的智能伙伴，这对产品设计思路很有启发。",
+      "url": "https://36kr.com/p/3765331768967686?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "斯坦福年度结论：中美大模型已没差距",
+      "summary": "斯坦福AI指数报告指出中美大模型技术差距已消失，AI普及加速。",
+      "plain_chinese": "就是说，以前大家总觉得美国在AI方面特别厉害，但斯坦福大学最新的报告说，其实咱们中国和美国的大模型技术已经差不多一样强了。而且现在用AI的人越来越多，AI正在以前所未有的速度走进大家的生活。",
+      "relevance": "作为产品部门秘书，了解行业宏观趋势很重要。这个结论能帮助西西在汇报或沟通时，更准确地把握国内 AI 行业的整体实力，增强信心。",
+      "url": "https://www.qbitai.com/2026/04/401094.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "千问用Agent重构Excel，AI直接生成表格",
+      "summary": "千问推出AI Agent，支持从对话直接生成、编辑Excel文件。",
+      "plain_chinese": "就是说，以后做表格不用自己一个个敲数字了。你只要跟千问的AI助手说“帮我做个销售表”，它就能直接在Excel里帮你把表做出来。你想改哪里，直接告诉它，它就帮你改，就像有个超级秘书在帮你干活。",
+      "relevance": "西西正在学习 vibe coding，这属于办公自动化范畴。这个工具能极大提升数据处理效率，非常适合西西在日常工作中处理报表，减少重复劳动。",
+      "url": "https://www.qbitai.com/2026/04/401041.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "Claude强到不敢发，被疑用了字节Seed技术",
+      "summary": "Claude新模型Mythos性能强劲，被质疑技术来源涉及字节Seed团队。",
+      "plain_chinese": "就是说，有个叫Claude的AI模型最近突然变强了，强到连发布都不敢太张扬。大家都在猜它是不是偷偷用了咱们字节跳动团队研发的技术。这说明现在AI技术发展太快了，大家都在互相“借鉴”和“追赶”。",
+      "relevance": "西西关注 AI 编程和前沿动态。这个事件反映了行业内激烈的技术竞争和合作，有助于她理解当前 AI 领域的技术风向标在哪里。",
+      "url": "https://www.qbitai.com/2026/04/400500.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code作者揭秘工作流，开发者疯狂讨论",
+      "summary": "Claude Code作者分享开发流程，引发开发者对AI编程新范式的热议。",
+      "plain_chinese": "就是说，那个能帮你写代码的Claude Code的作者，分享了他平时是怎么用AI写代码的。大家一看，哇，原来可以这样操作！于是整个程序员圈子都在讨论这种新方法，觉得以后写代码可能真的不用那么费脑子了。",
+      "relevance": "西西正在学习 vibe coding，这是最直接相关的资讯。了解顶级开发者的 AI 编程工作流，能让她更快地掌握“人机协作”的最佳实践。",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat AI"
+    }
+  ],
   "github": [
     {
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 183,409 个收藏，说明很多开发者觉得它有用。",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 183,412 个收藏，说明很多开发者觉得它有用。",
       "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
@@ -16,7 +71,7 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 159,640 个收藏，说明很多开发者觉得它有用。",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 159,647 个收藏，说明很多开发者觉得它有用。",
       "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
@@ -25,7 +80,7 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 137,677 个收藏，说明很多开发者觉得它有用。",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 137,690 个收藏，说明很多开发者觉得它有用。",
       "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
@@ -34,7 +89,7 @@
       "category": "⭐ GitHub",
       "title": "langchain-ai/langchain",
       "summary": "The agent engineering platform",
-      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 133,490 个收藏，说明很多开发者觉得它有用。",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 133,501 个收藏，说明很多开发者觉得它有用。",
       "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub"
@@ -43,7 +98,7 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 131,734 个收藏，说明很多开发者觉得它有用。",
+      "plain_chinese": "这是一个 GitHub 上近期很热门的 AI 项目，已获得 131,752 个收藏，说明很多开发者觉得它有用。",
       "relevance": "关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
