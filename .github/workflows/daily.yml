@@ -39,4 +39,5 @@ jobs:
           git config user.email "bot@xuxu.daily"
           git add docs/
           git diff --staged --quiet || git commit -m "📰 $(date +%Y-%m-%d) AI 日报"
+          git pull origin main --rebase
           git push
