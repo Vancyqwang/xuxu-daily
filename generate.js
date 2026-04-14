@@ -153,16 +153,74 @@ async function main() {
   const summaries = rssItems.length > 0 ? await summarizeWithHunyuan(rssItems) : [];
   console.log(`✅ AI 精选出 ${summaries.length} 条新闻`);
 
-  // GitHub 项目直接格式化（不经 AI 过滤，保证每天有推荐）
-  const githubFormatted = githubItems.map(item => ({
+  // GitHub 项目也通过 AI 生成小白解读
+  let githubFormatted = githubItems.map(item => ({
     category: '⭐ GitHub',
     title: item.title,
     summary: item.desc || '暂无描述',
-    plain_chinese: `这是一个 GitHub 上近期很热门的 AI 项目，已获得 ${item.stars?.toLocaleString() || '大量'} 个收藏，说明很多开发者觉得它有用。`,
-    relevance: '关注 AI 工具领域的前沿开源项目，有助于了解开发者社区在用什么。',
+    plain_chinese: '',
+    relevance: '',
     url: item.url,
-    source: 'GitHub'
+    source: 'GitHub',
+    stars: item.stars
   }));
+
+  // 用 AI 给 GitHub 项目写小白解读
+  if (githubItems.length > 0 && GLM_API_KEY) {
+    try {
+      const ghText = githubItems.map((item, i) =>
+        `${i + 1}. ${item.title}（⭐${item.stars?.toLocaleString()}）\n   描述: ${item.desc || '无'}\n   链接: ${item.url}`
+      ).join('\n\n');
+
+      const ghPrompt = `你是西西的电子秘书「嘘嘘」。西西是非技术背景的行政秘书，正在学习 AI 编程。
+请为以下 GitHub 项目各写两段话：
+1. plain_chinese：用大白话解释这个项目是做什么的（2-3句，完全不用技术词汇，用生活化比喻，假设读者完全不懂编程）
+2. relevance：和西西的学习有什么关系（1句话）
+
+项目列表：
+${ghText}
+
+请只返回 JSON 数组，格式：
+[{"title":"项目名","plain_chinese":"...","relevance":"..."},...]
+不要加 markdown 代码块。`;
+
+      const ghCompletion = await client.chat.completions.create({
+        model: 'glm-4.7-flash',
+        messages: [{ role: 'user', content: ghPrompt }],
+        temperature: 0.3,
+      });
+
+      const ghContent = ghCompletion.choices?.[0]?.message?.content || '';
+      let ghJsonStr = '';
+      const ghCodeBlock = ghContent.match(/```(?:json)?\s*([\s\S]*?)```/);
+      if (ghCodeBlock) ghJsonStr = ghCodeBlock[1].trim();
+      if (!ghJsonStr) { const m = ghContent.match(/\[[\s\S]*\]/); if (m) ghJsonStr = m[0]; }
+      if (!ghJsonStr) ghJsonStr = ghContent.trim();
+
+      try {
+        const ghParsed = JSON.parse(ghJsonStr);
+        if (Array.isArray(ghParsed)) {
+          githubFormatted = githubFormatted.map(item => {
+            const match = ghParsed.find(p => item.title.includes(p.title) || p.title.includes(item.title.split('/').pop()));
+            if (match) {
+              item.plain_chinese = match.plain_chinese || '';
+              item.relevance = match.relevance || '';
+            }
+            return item;
+          });
+        }
+      } catch(e) { console.log('GitHub AI 解读解析失败:', e.message); }
+    } catch(e) { console.log('GitHub AI 解读失败:', e.message); }
+  }
+
+  // 没有 AI 解读的用默认
+  githubFormatted = githubFormatted.map(item => ({
+    ...item,
+    plain_chinese: item.plain_chinese || `这是一个 GitHub 上很受欢迎的 AI 项目（${item.stars?.toLocaleString() || '大量'}人收藏）：${item.summary}`,
+    relevance: item.relevance || '关注 AI 领域前沿开源项目，了解开发者社区在用什么。'
+  }));
+  // 移除 stars 字段
+  githubFormatted.forEach(item => delete item.stars);
 
   // 构建日报 JSON
   const daily = {
