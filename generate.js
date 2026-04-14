@@ -16,7 +16,7 @@ async function fetchGithubTrending() {
   try {
     const res = await fetch(
       'https://api.github.com/search/repositories?q=topic:ai+topic:llm&sort=stars&order=desc&per_page=10&created:>' + getDateBefore(7),
-      { headers: { 'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'xuxu-daily-bot' } }
+      { headers: { 'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'xuxu-daily-bot' }, signal: AbortSignal.timeout(15000) }
     );
     const data = await res.json();
     return (data.items || []).slice(0, 5).map(r => ({
@@ -48,7 +48,10 @@ async function fetchRSS() {
   const items = [];
   for (const source of sources) {
     try {
-      const feed = await parser.parseURL(source.url);
+      // 单个源最多等 15 秒
+      const feedPromise = parser.parseURL(source.url);
+      const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 15000));
+      const feed = await Promise.race([feedPromise, timeoutPromise]);
       const recent = (feed.items || []).slice(0, 8).map(item => ({
         title: item.title || '',
         desc: item.contentSnippet?.slice(0, 200) || item.summary?.slice(0, 200) || '',
