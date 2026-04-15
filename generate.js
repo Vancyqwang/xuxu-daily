@@ -37,7 +37,6 @@ async function fetchRSS() {
   const sources = [
     // 国内
     { name: '36kr AI', url: 'https://36kr.com/feed' },
-    { name: '机器之心', url: 'https://www.jiqizhixin.com/rss' },
     { name: '量子位', url: 'https://www.qbitai.com/feed' },
     // 国际
     { name: 'Hacker News AI', url: 'https://hnrss.org/frontpage?q=AI+LLM+GPT&count=20' },
