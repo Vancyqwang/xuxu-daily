@@ -173,17 +173,17 @@ async function main() {
       ).join('\n\n');
 
       const ghPrompt = `你是西西的电子秘书「嘘嘘」。西西是非技术背景的行政秘书，正在学习 AI 编程。
-请为以下 GitHub 项目各写两段话：
-1. plain_chinese：用大白话解释这个项目是做什么的（2-3句，完全不用技术词汇，用生活化比喻，假设读者完全不懂编程）
-2. relevance：和西西的学习有什么关系（1句话）
+请为以下 ${githubItems.length} 个 GitHub 项目，按顺序各写两段话：
+1. plain_chinese：用大白话解释这个项目是做什么的（2-3句，完全不用技术词汇，用「就是说」「打个比方」「相当于」这类口语，假设读者完全不懂编程）
+2. relevance：和西西有什么关系（1句话，具体说对她学 AI 编程有什么帮助）
 
 项目列表：
 ${ghText}
 
-请只返回 JSON 数组，格式：
-[{"title":"项目名","plain_chinese":"...","relevance":"..."},...]
-不要加 markdown 代码块。`;
+严格按顺序返回 ${githubItems.length} 个对象的 JSON 数组，不要加 markdown 代码块：
+[{"plain_chinese":"...","relevance":"..."},{"plain_chinese":"...","relevance":"..."},...]`;
 
+      console.log('请求 GitHub AI 解读...');
       const ghCompletion = await client.chat.completions.create({
         model: 'glm-4.7-flash',
         messages: [{ role: 'user', content: ghPrompt }],
@@ -191,6 +191,7 @@ ${ghText}
       });
 
       const ghContent = ghCompletion.choices?.[0]?.message?.content || '';
+      console.log('GitHub AI 解读返回（前300字）：', ghContent.slice(0, 300));
       let ghJsonStr = '';
       const ghCodeBlock = ghContent.match(/```(?:json)?\s*([\s\S]*?)```/);
       if (ghCodeBlock) ghJsonStr = ghCodeBlock[1].trim();
@@ -200,14 +201,12 @@ ${ghText}
       try {
         const ghParsed = JSON.parse(ghJsonStr);
         if (Array.isArray(ghParsed)) {
-          githubFormatted = githubFormatted.map(item => {
-            const match = ghParsed.find(p => item.title.includes(p.title) || p.title.includes(item.title.split('/').pop()));
-            if (match) {
-              item.plain_chinese = match.plain_chinese || '';
-              item.relevance = match.relevance || '';
-            }
-            return item;
-          });
+          // 按顺序匹配，不按 title
+          for (let i = 0; i < Math.min(ghParsed.length, githubFormatted.length); i++) {
+            if (ghParsed[i].plain_chinese) githubFormatted[i].plain_chinese = ghParsed[i].plain_chinese;
+            if (ghParsed[i].relevance) githubFormatted[i].relevance = ghParsed[i].relevance;
+          }
+          console.log(`✅ GitHub AI 解读成功：${ghParsed.length} 条`);
         }
       } catch(e) { console.log('GitHub AI 解读解析失败:', e.message); }
     } catch(e) { console.log('GitHub AI 解读失败:', e.message); }
