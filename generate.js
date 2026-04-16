@@ -66,39 +66,34 @@ async function fetchRSS() {
   return items;
 }
 
-// ===== 3. 调混元 API 总结成日报 =====
-async function summarizeWithHunyuan(rawItems) {
+// ===== 3. 调智谱 API 总结成日报（含 GitHub 解读） =====
+async function summarizeWithZhipu(rawItems, githubItems) {
   const itemsText = rawItems.map((item, i) =>
     `${i + 1}. [${item.source}] ${item.title}\n   摘要: ${item.desc}\n   链接: ${item.url}`
+  ).join('\n\n');
+
+  const ghText = githubItems.map((item, i) =>
+    `GH${i + 1}. ${item.title}（⭐${item.stars?.toLocaleString()}）\n   描述: ${item.desc || '无'}\n   链接: ${item.url}`
   ).join('\n\n');
 
   const prompt = `你是西西的 AI 电子秘书「嘘嘘」，每天帮她整理 AI 领域最新动态。
 西西的背景：腾讯云产品部门秘书，非技术背景，关注 AI 编程/具身智能/产品设计，正在学习 vibe coding。
 
-请从以下原始新闻中，精选 5-8 条最值得关注的内容，按分类整理成日报。
+【第一部分】从以下原始新闻中，精选 5-8 条最值得关注的内容，按分类整理。
+每条格式：{"type":"news","category":"分类","title":"标题（中文30字内）","summary":"一句话总结50字内","plain_chinese":"小白解读2-3句，完全不用技术词汇，用生活化比喻","relevance":"和西西的关系1句","url":"链接","source":"来源"}
 
-分类规则：
-- 🤖 大模型：大语言模型、多模态、基础模型相关
-- 🦾 具身智能：机器人、物理世界 AI、传感器相关
-- 🛠️ 工具：AI 工具、开发框架、产品发布
-- 📄 论文/研究：学术成果、技术突破
+分类：🤖 大模型 / 🦾 具身智能 / 🛠️ 工具 / 📄 论文研究
 
-每条格式：
-{
-  "category": "分类名",
-  "title": "标题（简洁中文，不超过30字）",
-  "summary": "一句话总结（不超过50字，技术人员视角）",
-  "plain_chinese": "小白版解读（2-3句话，要求：①完全不用任何技术词汇，把 LLM/框架/模型/API 等词都替换成生活化比喻；②假设读者是一个完全不懂技术的行政秘书；③用「就是说」「相当于」「打个比方」这类口语表达；④说清楚这件事在现实生活中意味着什么）",
-  "relevance": "和西西有什么关系（1-2句，具体说明对她的工作或学习有什么价值）",
-  "url": "原文链接",
-  "source": "来源"
-}
+【第二部分】为以下 ${githubItems.length} 个 GitHub 项目各写中文解读。
+每条格式：{"type":"github","title":"项目名","plain_chinese":"大白话解释2句，不用技术词汇","relevance":"对西西学 AI 编程的价值1句","url":"链接"}
 
-原始内容：
+原始新闻：
 ${itemsText}
 
-请只返回 JSON 数组，不要加其他内容，不要加 markdown 代码块。格式：
-[{"category":"...","title":"...","summary":"...","plain_chinese":"...","relevance":"...","url":"...","source":"..."},...]`;
+GitHub 项目：
+${ghText}
+
+只返回一个 JSON 数组，包含新闻和 GitHub 两类数据，不加 markdown 代码块：`;
 
   try {
     const completion = await client.chat.completions.create({
@@ -108,31 +103,42 @@ ${itemsText}
     });
 
     const content = completion.choices?.[0]?.message?.content || '';
-    console.log('混元返回内容（前500字）：', content.slice(0, 500));
+    console.log('AI 返回内容（前500字）：', content.slice(0, 500));
 
-    if (!content) { console.log('混元返回为空'); return []; }
+    if (!content) { console.log('AI 返回为空'); return { news: [], github: [] }; }
 
-    // 尝试多种方式提取 JSON
     let jsonStr = '';
     const codeBlockMatch = content.match(/```(?:json)?\s*([\s\S]*?)```/);
     if (codeBlockMatch) jsonStr = codeBlockMatch[1].trim();
-    if (!jsonStr) {
-      const arrayMatch = content.match(/\[[\s\S]*\]/);
-      if (arrayMatch) jsonStr = arrayMatch[0];
-    }
+    if (!jsonStr) { const m = content.match(/\[[\s\S]*\]/); if (m) jsonStr = m[0]; }
     if (!jsonStr) jsonStr = content.trim();
 
     try {
       const result = JSON.parse(jsonStr);
-      return Array.isArray(result) ? result : [];
+      if (Array.isArray(result)) {
+        const news = result.filter(r => r.type === 'news').map(r => ({
+          category: r.category, title: r.title, summary: r.summary,
+          plain_chinese: r.plain_chinese, relevance: r.relevance,
+          url: r.url, source: r.source
+        }));
+        const github = result.filter(r => r.type === 'github').map((r, i) => ({
+          category: '⭐ GitHub',
+          title: githubItems[i]?.title || r.title,
+          summary: githubItems[i]?.desc || '',
+          plain_chinese: r.plain_chinese || '',
+          relevance: r.relevance || '',
+          url: githubItems[i]?.url || r.url,
+          source: 'GitHub'
+        }));
+        return { news, github };
+      }
     } catch (e) {
       console.log('JSON 解析失败：', e.message);
-      return [];
     }
   } catch (e) {
-    console.log('混元 API 调用失败：', e.message);
-    return [];
+    console.log('智谱 API 调用失败：', e.message);
   }
+  return { news: [], github: [] };
 }
 
 // ===== 4. 主流程 =====
@@ -148,20 +154,15 @@ async function main() {
 
   console.log(`📦 GitHub: ${githubItems.length} 条，RSS: ${rssItems.length} 条`);
 
-  // RSS 新闻通过 AI 总结
-  const summaries = rssItems.length > 0 ? await summarizeWithHunyuan(rssItems) : [];
-  console.log(`✅ AI 精选出 ${summaries.length} 条新闻`);
-
-  // GitHub 项目直接格式化（不调 AI，节省时间）
-  const githubFormatted = githubItems.map(item => ({
-    category: '⭐ GitHub',
-    title: item.title,
-    summary: item.desc || '暂无描述',
-    plain_chinese: `⭐${item.stars?.toLocaleString()} · ${item.desc || '暂无描述'}`,
-    relevance: '关注 AI 领域前沿开源项目，了解开发者在用什么。',
-    url: item.url,
-    source: 'GitHub'
-  }));
+  // 一次 AI 调用搞定新闻总结 + GitHub 解读
+  const { news: summaries, github: githubFormatted } = rssItems.length > 0
+    ? await summarizeWithZhipu(rssItems, githubItems)
+    : { news: [], github: githubItems.map(item => ({
+        category: '⭐ GitHub', title: item.title,
+        summary: item.desc || '', plain_chinese: item.desc || '',
+        relevance: '关注 AI 领域前沿开源项目。', url: item.url, source: 'GitHub'
+      }))};
+  console.log(`✅ AI 精选出 ${summaries.length} 条新闻，${githubFormatted.length} 个 GitHub 解读`);
 
   // 构建日报 JSON
   const daily = {
