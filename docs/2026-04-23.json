@@ -1,60 +1,60 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T02:29:53.209Z",
+  "generated_at": "2026-04-23T05:59:03.854Z",
   "items": [
     {
       "category": "🦾 具身智能",
-      "title": "清华哈工大灵巧手成本降三成，近亿融资落地工业场景",
-      "summary": "灵巧手成本大幅降低，三个月融资近亿元，将进入真实工业场景。",
-      "plain_chinese": "这就好比给机器人装上了“灵活的手”，不仅便宜了，还能在工厂里干活，以后机器人进厂打工可能更普遍了。",
-      "relevance": "具身智能是产品落地的关键，了解硬件成本下降趋势对产品规划很重要。",
+      "title": "苏州厂商获融资，布局具身智能机器人",
+      "summary": "电磁零部件厂商获数千万元融资，产品将规模化上车并布局机器人领域。",
+      "plain_chinese": "就像给机器人装上“肌肉和关节”，让它们能干活，现在有公司专门做这个。",
+      "relevance": "了解具身智能硬件趋势，关注机器人核心零部件发展。",
+      "url": "https://36kr.com/p/3778732502095106?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "清华哈工大团队灵巧手融资近亿元",
+      "summary": "灵巧手成本降至三分之一，三个月融资近亿元，聚焦通用操作平台。",
+      "plain_chinese": "给机器人装上像人一样的手，而且变便宜了，以后机器人能干更多精细活。",
+      "relevance": "关注具身智能硬件成本下降趋势，理解机器人操作能力突破。",
       "url": "https://36kr.com/p/3778730451391751?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Claude Code 月费高达200美元，开源工具Goose免费替代",
-      "summary": "Anthropic的Claude Code收费昂贵，开源替代品Goose功能相似且免费。",
-      "plain_chinese": "原来用AI写代码这么贵，就像打车比坐公交贵，现在有个免费的“顺风车”版本，对想省钱学编程的人来说是好消息。",
-      "relevance": "帮西西评估 AI 编程工具的成本效益，寻找性价比高的替代方案。",
+      "title": "Claude Code收费贵，Goose免费替代",
+      "summary": "Claude Code月费高达200美元，开源工具Goose提供类似功能且免费。",
+      "plain_chinese": "写代码的AI助手很贵，但有个免费的替代品，功能差不多，省钱小妙招。",
+      "relevance": "学习AI编程工具时，关注性价比和替代方案。",
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "source": "VentureBeat AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Anthropic推出Cowork，让不懂代码的人也能用Claude处理文件",
-      "summary": "新工具Cowork扩展了Claude功能，允许非技术人员直接在桌面端操作文件。",
-      "plain_chinese": "以前用AI处理文件得自己敲代码，现在就像请了个秘书，直接把文件拖进去，它就能帮你整理、分析，不用懂技术。",
-      "relevance": "展示了 AI 工具如何降低非技术用户的门槛，符合西西的学习方向。",
+      "title": "Anthropic推出免代码文件助手Cowork",
+      "summary": "Anthropic发布Cowork，让非技术人员也能用AI直接操作电脑文件。",
+      "plain_chinese": "不用写代码，直接让AI帮你整理文件、写报告，像有个秘书在帮你干活。",
+      "relevance": "学习vibe coding，了解如何让AI辅助非技术工作。",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "source": "VentureBeat AI"
     },
     {
-      "category": "📄 论文研究",
-      "title": "神秘模型“大象”仅100B参数就拿下SOTA，效率惊人",
-      "summary": "新模型“大象”在性能上超越现有SOTA，且Token效率极高。",
-      "plain_chinese": "就像用更少的油跑更远的路，这个新模型用更少的“算力”跑出了更好的效果，说明以后AI可能不用那么大块头也能很聪明。",
-      "relevance": "关注大模型效率趋势，这对未来产品性能优化有参考意义。",
-      "url": "https://www.qbitai.com/2026/04/404645.html",
-      "source": "量子位"
-    },
-    {
-      "category": "📄 论文研究",
-      "title": "国产多模态Agent在医学分割上超越SOTA，已入选CVPR",
-      "summary": "国产多模态Agent在医学图像分割上取得顶尖成绩，被顶级会议收录。",
-      "plain_chinese": "这就好比让AI学会了像医生一样精准地看片子，能自动把病灶从图里“抠”出来，技术很硬核。",
-      "relevance": "了解国产 AI 在垂直领域的突破，有助于理解技术落地场景。",
-      "url": "https://www.qbitai.com/2026/04/404604.html",
-      "source": "量子位"
-    },
-    {
       "category": "🛠️ 工具",
-      "title": "Loopit像“可玩的抖音”，用户能创作全模态互动内容",
-      "summary": "AI互动内容平台Loopit支持用户创作图像、视频、3D等可互动内容。",
-      "plain_chinese": "这是一个能让你像玩抖音一样创作互动内容的平台，不仅能看还能玩，以后内容创作可能变成一种游戏。",
-      "relevance": "关注互动内容形态，对产品设计有启发。",
-      "url": "https://36kr.com/p/3778135439709446?f=rss",
-      "source": "36kr AI"
+      "title": "Salesforce推出新版Slackbot办公助手",
+      "summary": "新版Slackbot变身强大办公助手，能自动处理工作流和任务。",
+      "plain_chinese": "公司内部的聊天机器人升级了，能帮你自动安排日程、查资料，提升办公效率。",
+      "relevance": "关注企业级AI工具如何提升办公效率，适合产品经理视角。",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "📄 论文研究",
+      "title": "PixVerse成为联合国峰会AI合作伙伴",
+      "summary": "AI视频生成平台PixVerse成为联合国合作伙伴，面向全球创作者。",
+      "plain_chinese": "AI能自动生成视频了，而且这个工具还拿到了国际认可，以后做视频更方便。",
+      "relevance": "关注AI在视频设计领域的应用，了解行业认可度。",
+      "url": "https://www.qbitai.com/2026/04/405358.html",
+      "source": "量子位"
     }
   ],
   "github": [
@@ -62,8 +62,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "这是AI界的“老大哥”，最早让大家看到AI能自己给自己下任务、写代码，虽然现在有点老了，但概念很经典。",
-      "relevance": "了解 AI 自主性的起源，有助于理解当前 Agent 技术的发展脉络。",
+      "plain_chinese": "一个让AI自己给自己下任务、自己找资料、自己写代码的“超级大脑”。",
+      "relevance": "理解AI自主能力的经典案例，感受AI从“助手”到“代理”的进化。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -71,8 +71,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "这就像一个巨大的“提示词图书馆”，大家把写好的咒语（提示词）放进去，你可以直接复制来用，省得自己想。",
-      "relevance": "学习如何编写高质量的提示词，是 vibe coding 的基本功。",
+      "plain_chinese": "一个存放各种“提示词”的社区，就像菜谱书，你可以抄作业来让AI听话。",
+      "relevance": "学习如何给AI下指令（vibe coding核心），快速提升交互效果。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -80,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "这是一个可视化的“AI搭积木”工具，不需要写代码，就能把不同的AI功能像拼图一样拼成一个完整的应用。",
-      "relevance": "非常适合西西这种非技术人员，能快速搭建内部工具或原型。",
+      "plain_chinese": "一个搭建AI应用的“积木箱”，不用写代码就能把AI功能变成产品。",
+      "relevance": "学习如何快速搭建AI产品原型，适合产品经理和想动手的人。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -89,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "langchain-ai/langchain",
       "summary": "The agent engineering platform",
-      "plain_chinese": "它是AI世界的“胶水”，专门负责把大模型和各种工具（比如搜索、数据库）连接起来，让AI能干更多活。",
-      "relevance": "理解 Agent 开发的核心框架，是深入学习 AI 编程的必经之路。",
+      "plain_chinese": "连接AI和电脑的“万能胶水”，让AI能调用各种工具和数据库。",
+      "relevance": "了解AI编程背后的逻辑框架，理解如何让AI串联起复杂任务。",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub"
     },
@@ -98,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "这是一个超级好用的AI聊天界面，就像给AI装了个漂亮的仪表盘，支持本地部署，保护隐私又好用。",
-      "relevance": "提供了一个可视化的 AI 交互体验，方便西西测试和体验各种模型。",
+      "plain_chinese": "一个像聊天软件一样的界面，可以管理多个AI模型，界面友好。",
+      "relevance": "体验和AI对话的最佳界面工具，方便管理和测试不同模型。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
