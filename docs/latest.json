@@ -1,68 +1,59 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T02:30:35.836Z",
+  "generated_at": "2026-04-24T06:03:14.629Z",
   "items": [
     {
       "category": "🤖 大模型",
-      "title": "GPT-5.5发布，代码与科研能力大幅提升",
-      "summary": "新模型在写代码和做研究上比以前强很多，像给大脑装了更强芯片。",
-      "plain_chinese": "就像给AI大脑升级了最新芯片，写代码和做研究都更快更准了。",
-      "relevance": "了解最新AI能力，判断产品竞争力。",
-      "url": "https://www.qbitai.com/2026/04/406221.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "千里科技半年装车46万辆，智驾格局生变",
-      "summary": "智能驾驶公司半年内卖出几十万辆车，速度惊人，打破行业常规。",
-      "plain_chinese": "就像汽车界的“闪电侠”，半年时间就跑赢了竞争对手。",
-      "relevance": "关注智能驾驶趋势，寻找腾讯云合作机会。",
-      "url": "https://www.qbitai.com/2026/04/406036.html",
+      "title": "DeepSeek V4发布，参数量达1.6T",
+      "summary": "携手华为芯片，性能大幅提升。",
+      "plain_chinese": "就像给手机换了个超强的“大脑”，不仅算得快，还能处理超长的对话，而且这次是国产芯片的强强联手。",
+      "relevance": "了解国内大模型最新进展，对腾讯云产品选型有参考。",
+      "url": "https://www.qbitai.com/2026/04/406359.html",
       "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Anthropic推非程序员AI助手Cowork",
-      "summary": ": Anthropic发布新工具，让不懂代码的人也能用AI处理文件。",
-      "plain_chinese": "就像给电脑装了个不用写代码的“超级管家”，直接指挥它干活。",
-      "relevance": "学习非技术用户如何使用AI，优化产品设计。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "AI电子纸获亿元融资，手机背面新赛道",
-      "summary": "手机背面闲置空间被利用，AI电子纸成新宠，获多家资本加持。",
-      "plain_chinese": "就像给手机背面加了个能显示信息的“智能小黑板”。",
-      "relevance": "关注AI硬件形态，思考腾讯云云电脑潜力。",
-      "url": "https://36kr.com/p/3778175428777218?f=rss",
+      "title": "AI视频编辑工具Buzzy发布",
+      "summary": "像Photoshop一样，只需文字指令。",
+      "plain_chinese": "就像有个全能剪辑师，你跟它说“把背景换成海边”，它就能自动帮你搞定，不用学复杂的软件操作。",
+      "relevance": "适合西西学习如何用AI提升内容制作效率。",
+      "url": "https://36kr.com/p/3780352721851397?f=rss",
       "source": "36kr"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "飞书项目平台升级，全面拥抱AI",
-      "summary": "办公软件变得更聪明，能自动帮你处理任务，提升协作效率。",
-      "plain_chinese": "就像办公软件学会了“读心术”，不用你动手就能自动处理任务。",
-      "relevance": "学习AI办公工具，提升团队协作效率。",
-      "url": "https://www.qbitai.com/2026/04/406026.html",
-      "source": "量子位"
-    },
-    {
       "category": "🦾 具身智能",
-      "title": "Nature：机器人乒乓球击败职业选手",
-      "summary": "机器人打乒乓球比人还厉害，能接旋球，具身智能再突破。",
-      "plain_chinese": "就像科幻电影里的机器人成真了，打球比职业选手还稳。",
-      "relevance": "关注具身智能前沿，启发产品设计思路。",
+      "title": "机器人乒乓球击败人类职业选手",
+      "summary": "能接住高速旋球，展现惊人实力。",
+      "plain_chinese": "以前觉得机器人只会搬箱子，现在连乒乓球这种快球都能接，说明它们真的开始“动手”干活了。",
+      "relevance": "直观感受具身智能的进步，激发对AI硬件的想象。",
       "url": "https://www.qbitai.com/2026/04/405370.html",
       "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "开源代码模型NousCoder-14B发布",
-      "summary": "免费开源的代码模型，能力接近商业软件，降低编程门槛。",
-      "plain_chinese": "就像给电脑装了个免费的“编程老师”，帮你写代码。",
-      "relevance": "了解开源模型，评估技术替代风险。",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "title": "飞书多维表格升级，普通人也能做数据分析",
+      "summary": "河南师傅用AI工具轻松搞定复杂数据。",
+      "plain_chinese": "就像给Excel装了个“外挂”，你不用懂复杂的公式，只要问它“这周销量怎么样”，它就能自动画图告诉你。",
+      "relevance": "帮助西西在工作中更高效地处理数据报表。",
+      "url": "https://www.qbitai.com/2026/04/406191.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code月费高达200美元",
+      "summary": "有免费替代品Goose，功能相似。",
+      "plain_chinese": "就像打车软件，有的贵有的便宜，Claude Code是豪华版，但有个叫Goose的免费版，功能也差不多。",
+      "relevance": "帮西西在预算范围内选择合适的AI编程工具。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic推出无需写代码的AI助手",
+      "summary": "让非技术人员也能用Claude管理文件。",
+      "plain_chinese": "就像请了个私人秘书，你不用敲代码，直接跟它说“把这份报告发给我”，它就能帮你搞定电脑里的文件。",
+      "relevance": "非常适合西西这种非技术背景，体验AI如何辅助办公。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "source": "VentureBeat"
     }
   ],
@@ -71,8 +62,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "AI 自己给自己派活，像个不知疲倦的超级实习生。",
-      "relevance": "理解自主智能体概念，启发产品自动化思路。",
+      "plain_chinese": "一个能自己设定目标并自动执行任务的AI助手。",
+      "relevance": "想象一下，如果AI能帮你自动完成重复性工作，能极大提升秘书工作的效率。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -80,8 +71,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "AI 交流的“菜谱大全”，教你如何跟它更好地对话。",
-      "relevance": "学习提示词工程，提升与 AI 的沟通效率。",
+      "plain_chinese": "一个专门收集和分享“提示词”的社区，就像一个巨大的灵感库。",
+      "relevance": "学习如何写出好的提示词是vibe coding的基础，这里有很多现成的例子。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -89,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "像搭积木一样搭建 AI 应用，不用写代码也能做软件。",
-      "relevance": "学习低代码开发，快速搭建内部 AI 工具。",
+      "plain_chinese": "一个能让你自己搭建AI应用的后台平台，不用写太多代码。",
+      "relevance": "帮助西西快速搭建内部使用的AI工具，比如自动回复邮件或整理文档。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -98,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "langchain-ai/langchain",
       "summary": "The agent engineering platform",
-      "plain_chinese": "给 AI 装上“手脚”，让它能调用各种工具干活。",
-      "relevance": "理解 AI 代理逻辑，评估技术可行性。",
+      "plain_chinese": "AI编程的“胶水”，用来连接不同的AI工具和软件。",
+      "relevance": "理解AI是如何串联工作的，对于理解产品逻辑很有帮助。",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub"
     },
@@ -107,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "给 AI 换个好看、好用的聊天界面，像用微信一样。",
-      "relevance": "学习如何部署和展示 AI 服务，优化用户体验。",
+      "plain_chinese": "一个像ChatGPT一样好用的聊天界面，可以自己部署。",
+      "relevance": "提供一个私密的、可控的AI对话环境，方便西西随时测试想法。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
