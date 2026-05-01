@@ -1,7 +1,108 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T02:58:53.464Z",
-  "items": [],
-  "github": [],
+  "generated_at": "2026-05-01T06:31:17.103Z",
+  "items": [
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic 推出 Cowork，无需写代码就能用 AI 办公",
+      "summary": "Anthropic 推出 Cowork，让非技术人员也能通过桌面端 AI 代理处理文件。",
+      "plain_chinese": "就像给电脑装了个超级管家，你不用懂代码，只要告诉它“整理一下这个文件夹”，它就能帮你搞定。",
+      "relevance": "西西学 vibe coding 的好帮手，能帮她处理文档，降低上手门槛。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code 月费高达 200 美元，开源替代品 Goose 免费可用",
+      "summary": "Claude Code 的终端 AI 代理很强大但昂贵，开源工具 Goose 提供了免费替代方案。",
+      "plain_chinese": "Claude Code 像个收费的高级私教，而 Goose 就像免费的健身教程，功能差不多，省钱是关键。",
+      "relevance": "省钱学 AI 编程，适合预算有限的初学者，对比工具能帮助西西做选型。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "追觅在硅谷办展，扫地机、空调甚至“火箭车”都有",
+      "summary": "追觅在旧金山艺术宫举办 Nebula NEXT 展览，展示了从家电到概念超跑的具身智能产品。",
+      "plain_chinese": "追觅把扫地机、空调甚至火箭车都搬到了展会上，展示了机器人如何像人一样“动手”做事。",
+      "relevance": "具身智能领域的最新产品展示，对产品设计很有启发，能看到硬件与 AI 的结合。",
+      "url": "https://36kr.com/p/3789057332043016",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "商汤杨帆谈 AI 拐点：从人用 AI 到人机协作",
+      "summary": "商汤杨帆认为 AI 正从单纯的人用工具转向人机协作，本质是生产关系的重构。",
+      "plain_chinese": "以前 AI 是你手里的工具，以后 AI 可能是和你一起工作的伙伴，大家分工合作。",
+      "relevance": "帮助西西理解 AI 对工作模式的影响，指导产品设计思路。",
+      "url": "https://www.qbitai.com/2026/04/412015.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+      "summary": "Stripe 推出 Link 驱动的智能体钱包，为 AI 时代的支付和商业活动提供支持。",
+      "plain_chinese": "Stripe 就像给 AI 时代装上了“钱包”和“身份证”，让 AI 也能像人一样安全地收钱和买东西。",
+      "relevance": "了解 AI 商业化落地的关键基础设施，对产品经理理解商业闭环很重要。",
+      "url": "https://www.qbitai.com/2026/04/412018.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "HappyHorse 开启灰测，阿里发布视频生成模型",
+      "summary": "阿里巴巴 ATH 事业群发布视频模型 HappyHorse，接入千问 App，但表现未达预期。",
+      "plain_chinese": "阿里做了一个能生成视频的 AI，就像一个超级剪辑师，但还没完全达到大家的期待。",
+      "relevance": "关注视频生成技术在产品设计中的应用潜力，了解行业竞争动态。",
+      "url": "https://36kr.com/p/3789098887077123",
+      "source": "36kr AI"
+    }
+  ],
+  "github": [
+    {
+      "category": "⭐ GitHub",
+      "title": "Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "plain_chinese": "一个能自己给自己下任务、自己写代码的 AI，就像一个不用睡觉的超级实习生。",
+      "relevance": "了解 AI 自动化工作的经典案例，感受“自主智能”的魅力。",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "plain_chinese": "一个社区分享“提示词”的地方，你可以看到别人是怎么指挥 AI 的。",
+      "relevance": "学习如何写出更好的提示词，提升 AI 编程效率。",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "langgenius/dify",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "plain_chinese": "一个能让你自己搭建 AI 应用平台的工具，不用写代码就能做自己的 AI 助手。",
+      "relevance": "西西学习 vibe coding 的核心工具，适合搭建内部工作流。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "langchain-ai/langchain",
+      "summary": "The agent engineering platform",
+      "plain_chinese": "连接各种 AI 工具的“胶水”，让不同的 AI 能像搭积木一样配合工作。",
+      "relevance": "理解 AI 编程的底层逻辑，虽然复杂但很有用。",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "plain_chinese": "一个像 ChatGPT 界面一样的开源软件，你可以把它装在自己电脑上用。",
+      "relevance": "方便本地运行和测试 AI 模型，体验更私密。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
+    }
+  ],
   "raw_count": 36
 }
