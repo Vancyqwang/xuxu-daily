@@ -1,78 +1,60 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T02:43:31.074Z",
+  "generated_at": "2026-05-03T06:20:55.283Z",
   "items": [
     {
       "category": "🛠️ 工具",
-      "title": "苹果官方 App 误打包了 Claude.md，这么大的公司也 Vibe Coding 啊？",
-      "summary": "苹果内部使用 Claude Code 构建生产级应用，引发业界关注。",
-      "plain_chinese": "连苹果这种大厂都在偷偷用 AI 写代码，说明“氛围编程”真的成了主流。",
-      "relevance": "鼓励你大胆尝试 vibe coding，大厂都在用。",
-      "url": "https://36kr.com/p/3791662444911617?f=rss",
-      "source": "36kr AI"
+      "title": "苹果官方 App 误打包 Claude.md，Vibe Coding 真实存在",
+      "summary": "苹果内部竟用 Claude 构建应用，大厂也玩 Vibe Coding。",
+      "plain_chinese": "就像大厨做饭前会写菜谱一样，苹果把写好的“AI 菜谱”打包进 App 里，说明他们真的在用 AI 帮忙做产品，而不是光说不练。",
+      "relevance": "帮你确认 Vibe Coding 不是噱头，是真实生产力。",
+      "url": "https://www.qbitai.com/2026/05/412713.html",
+      "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Anthropic 推出 Cowork，无需编码即可在文件中工作",
-      "summary": "Claude 桌面端新功能，非技术人员也能用 AI 处理文档。",
-      "plain_chinese": "就像给电脑装了个超级秘书，不用懂代码就能帮你整理文件、写报告。",
-      "relevance": "让你知道非技术背景的人也能轻松上手 AI 办公。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
+      "title": "Claude Code 月费高达 200 元，Goose 免费版来了",
+      "summary": "Anthropic 代码助手很贵，新对手 Goose 宣称免费。",
+      "plain_chinese": "以前用 AI 写代码像请私教，得掏大价钱；现在有个叫 Goose 的工具说“我免费教”，这对想省钱学编程的人来说是个大好消息。",
+      "relevance": "帮你对比 AI 编程工具成本，省钱选品。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "Nous 研究发布 140 亿参数开源代码模型",
+      "summary": "开源模型 NousCoder-14B 性能媲美闭源，代码能力增强。",
+      "plain_chinese": "就像开源了汽车引擎，大家都能自己造车，这个新模型让普通人也能用上高性能的 AI 写代码工具，不用再被大厂垄断。",
+      "relevance": "了解开源模型如何降低 AI 编程门槛。",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat"
     },
     {
       "category": "🦾 具身智能",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源",
-      "summary": "开源高保真仿真框架，助力具身智能规模化训练。",
-      "plain_chinese": "就像给机器人造了一个超级逼真的虚拟游乐场，让它们在里面练胆量，不用真摔坏。",
-      "relevance": "对产品设计很有启发，模拟真实场景是关键。",
-      "url": "https://www.qbitai.com/2026/05/412577.html",
+      "title": "新一代具身智能仿真框架开源，算力瓶颈被突破",
+      "summary": "高保真渲染框架开源，助力机器人大规模训练。",
+      "plain_chinese": "以前训练机器人像在真空中跑步，现在有了这个新框架，就像给机器人建了个超级健身房，能更高效地模拟真实环境。",
+      "relevance": "理解具身智能训练背后的技术支撑。",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
       "source": "量子位"
     },
     {
-      "category": "🤖 大模型",
-      "title": "智谱公布“降智”的秘密：Scaling 不可避免的痛",
-      "summary": "分析大模型在扩展过程中出现的性能下降问题。",
-      "plain_chinese": "就像人长得太高太胖，有时候反而不如小时候灵活，模型大了也会犯迷糊。",
-      "relevance": "帮你理解 AI 的局限性，别对它期望过高。",
-      "url": "https://www.qbitai.com/2026/05/412585.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "华为携手中科大发布灵境造物，openJiuwen 首发 Coordination Engineering",
-      "summary": "基于全栈国产化软硬件生态打造，发布 Coordination Engineering 全栈支撑。",
-      "plain_chinese": "华为和中科大联手搞了个国产的“AI 搭建工具”，主打安全和自主可控。",
-      "relevance": "关注国产 AI 生态发展，了解技术自主性。",
+      "category": "🦾 具身智能",
+      "title": "华为中科大联合发布灵境造物，具身智能新进展",
+      "summary": "基于国产软硬件生态，全栈支撑具身智能。",
+      "plain_chinese": "华为和中科大联手搞了个“造物”工具，就像搭积木一样，用国产积木搭建具身智能系统，以后不用依赖国外技术了。",
+      "relevance": "关注国产 AI 技术生态发展。",
       "url": "https://www.qbitai.com/2026/05/412696.html",
       "source": "量子位"
     },
     {
       "category": "🤖 大模型",
-      "title": "Nous Research 发布 NousCoder-14B 开源编程模型",
-      "summary": "开源编程模型，性能媲美 Claude Code。",
-      "plain_chinese": "有人免费做了一个能写代码的 AI 模型，效果还不错，大家都能用。",
-      "relevance": "学习 AI 编程时，可以试试这些免费的开源工具。",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "Railway 获 1 亿美元融资挑战 AWS，AI 原生云基础设施崛起",
-      "summary": "AI 原生云平台 Railway 获大额融资，专门为 AI 应用开发设计。",
-      "plain_chinese": "有个专门给 AI 应用服务的云平台拿到了大钱，以后部署 AI 应用可能更方便。",
-      "relevance": "了解 AI 开发背后的基础设施趋势。",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "中美具身公司聊了聊了4个问题的解法",
-      "summary": "中美具身智能公司探讨规模化落地与低价高性能策略。",
-      "plain_chinese": "就像两个赛车队聊怎么造更便宜、跑得更快的车，还要卖到全世界去。",
-      "relevance": "帮你了解具身智能行业的赚钱门道和竞争现状。",
-      "url": "https://36kr.com/p/3792155815304450?f=rss",
-      "source": "36kr AI"
+      "title": "智谱揭秘模型“降智”原因，原来是计算方式变了",
+      "summary": "模型表现变差是因为计算方式变了，不是模型坏了。",
+      "plain_chinese": "模型突然变笨了，其实不是它生病了，而是计算方式变了，就像以前用算盘算数，现在改用计算器，虽然快但偶尔会算错。",
+      "relevance": "理解大模型行为变化的底层逻辑。",
+      "url": "https://www.qbitai.com/2026/05/412585.html",
+      "source": "量子位"
     }
   ],
   "github": [
@@ -80,8 +62,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自己给自己下任务、自己写代码的 AI。",
-      "relevance": "了解 AI 自主能力的雏形。",
+      "plain_chinese": "这是一个能自己给自己下任务的 AI，你只要告诉它目标，它就会像管家一样自己想办法去完成。",
+      "relevance": "体验最经典的“自主智能体”概念，理解 AI 如何自动化工作流。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -89,8 +71,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个存放各种 AI 提示词的公共仓库，像是一个提示词图书馆。",
-      "relevance": "找灵感，学习怎么跟 AI 对话。",
+      "plain_chinese": "这是一个大家分享“提示词”的社区，就像一个公共的 AI 菜谱库，你可以直接复制别人的指令去用。",
+      "relevance": "收集高质量的提示词，提升你的 Vibe Coding 效率。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -98,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个能让你自己搭建 AI 应用（比如聊天机器人）的傻瓜式平台。",
-      "relevance": "不用写代码就能做产品原型。",
+      "plain_chinese": "这是一个可视化的 AI 工作流搭建平台，就像搭积木一样，不用写代码就能把多个 AI 工具连起来干活。",
+      "relevance": "非常适合产品经理搭建内部 AI 助手，快速落地。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "langchain-ai/langchain",
       "summary": "The agent engineering platform",
-      "plain_chinese": "AI 和各种工具连接的“胶水”，让 AI 能调用数据库或 API。",
-      "relevance": "理解 AI 编程的底层逻辑。",
+      "plain_chinese": "这是 AI 的“万能胶水”，能把各种 AI 工具和数据库粘在一起，让 AI 能调用外部信息。",
+      "relevance": "理解 AI 编程的底层逻辑，虽然复杂，但能让你看懂代码是怎么跑起来的。",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub"
     },
@@ -116,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个长得像 ChatGPT 的开源网页界面，可以自己部署。",
-      "relevance": "拥有一个私人的 AI 办公室。",
+      "plain_chinese": "这是一个像 ChatGPT 一样好用的网页界面，支持本地部署，就像把 AI 装进自己的电脑里，安全又免费。",
+      "relevance": "适合本地部署大模型，保护隐私，体验流畅的对话。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
