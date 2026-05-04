@@ -1,78 +1,69 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T02:41:33.784Z",
+  "generated_at": "2026-05-04T06:33:47.819Z",
   "items": [
     {
-      "category": "🤖 大模型",
-      "title": "苹果误打包 Claude.md，大厂也玩 Vibe Coding",
-      "summary": "苹果把内部项目说明文件打包进 App，暴露了其使用 Claude Code 构建应用。",
-      "plain_chinese": "就像你把写好的作业草稿不小心夹进了正式提交的文件里，苹果不小心把给 AI 的“操作说明书”放进了 App 里，说明大厂也在用 AI 做开发。",
-      "relevance": "Vibe coding 是西西正在学的，这证明大公司也在这么玩。",
-      "url": "https://36kr.com/p/3791662444911617?f=rss",
-      "source": "36kr"
+      "category": "🦾 具身智能",
+      "title": "卓驭转向物理AI，智能驾驶生存法则",
+      "summary": "智能驾驶公司不再只做算法，开始像造车一样造大脑，这是为了活下去。",
+      "plain_chinese": "以前做自动驾驶像是在修路，现在像是在造车。如果不升级成“物理AI”，以后可能就跑不动了，就像手机如果不升级系统，以后连游戏都玩不了。",
+      "relevance": "帮你理解为什么最近很多科技公司都在搞机器人，这是大趋势。",
+      "url": "https://36kr.com/p/3789475357400068?f=rss",
+      "source": "36kr AI"
     },
     {
       "category": "🦾 具身智能",
-      "title": "新一代具身智能仿真框架开源，训练机器人更快",
-      "summary": "开源框架解决视觉仿真算力瓶颈，助力具身智能规模化训练。",
-      "plain_chinese": "以前训练机器人像在真山真水里练游泳，既慢又危险；现在有了这个新工具，就像在电脑游戏里练，又快又安全，机器人能学得更快了。",
-      "relevance": "西西关注具身智能，这能帮她理解机器人训练的难点。",
-      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "title": "中美具身智能公司都在谈“规模化落地”",
+      "summary": "中国机器人厂商出货量激增，全球扩张，都在拼低价高性能。",
+      "plain_chinese": "机器人公司现在像当年的智能手机厂商，都在拼命卖货。中国厂商卖得特别便宜，性能还挺好，正在把机器人卖到全世界。",
+      "relevance": "让你看到 AI 机器人离我们生活越来越近了，不再是科幻电影。",
+      "url": "https://36kr.com/p/3792155815304450?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "苹果官方App误打包Claude.md，大厂也Vibe Coding",
+      "summary": "苹果内部用Claude Code构建生产级应用，连保密公司都在用这种“氛围编程”。",
+      "plain_chinese": "苹果这么保密的公司，居然偷偷用 Claude Code 这种“氛围编程”工具写代码。这说明这种不用写死代码、跟 AI 对话就能写程序的方法，真的很流行。",
+      "relevance": "你正在学的 Vibe Coding，连苹果都在用，说明它确实好用。",
+      "url": "https://36kr.com/p/3791662444911617?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code 月费高达200美元，Goose免费替代",
+      "summary": "AI 编程很贵，有个叫 Goose 的工具能免费做同样的事。",
+      "plain_chinese": "用 AI 写代码很爽，但很费钱，一个月可能要花 200 美元。不过现在有个叫 Goose 的免费工具，功能差不多，能帮你省下这笔钱。",
+      "relevance": "帮你省钱，毕竟咱们是产品经理，不是程序员，没必要花大钱。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic发布Cowork，非程序员也能用AI处理文件",
+      "summary": "新工具让不懂代码的人，也能用 AI 帮你整理文档、做表格。",
+      "plain_chinese": "以前 AI 写代码要懂很多技术，现在这个新工具，你只要用自然语言跟它说话，它就能帮你处理电脑里的文件，就像有个私人助理一样。",
+      "relevance": "你正在学的 Vibe Coding 的延伸，以后不用写代码也能用 AI 办公。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "DeepSeek V4最大的遗憾",
+      "summary": "强大的模型有个致命弱点，导致性能下降。",
+      "plain_chinese": "再厉害的 AI 也有短板。DeepSeek V4 虽然聪明，但有个小毛病，导致它有时候会变笨，就像电脑开了太多后台程序会卡顿一样。",
+      "relevance": "了解 AI 的局限性，让你在使用时更理性。",
+      "url": "https://www.qbitai.com/2026/05/412737.html",
       "source": "量子位"
     },
     {
-      "category": "🦾 具身智能",
-      "title": "中美具身公司谈落地，中国机器人出海猛",
-      "summary": "2026年4月以来，智元和宇树机器人出货量激增，中国机器人低价高性能。",
-      "plain_chinese": "以前机器人像稀有宠物，现在中国造的机器人像手机一样便宜好用，正在卖到全世界，大家都在抢着量产。",
-      "relevance": "了解行业趋势，对产品规划有参考价值。",
-      "url": "https://36kr.com/p/3792155815304450?f=rss",
-      "source": "36kr"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "智驾厂商必须转型“物理AI”，否则将被淘汰",
-      "summary": "卓驭发布原生多模态基础模型，算法厂商向物理AI转型是生存法则。",
-      "plain_chinese": "以前开车靠人脑反应，现在靠 AI 理解物理世界；如果不升级 AI 技术，造车的公司可能就活不下去了，这是生死攸关的转型。",
-      "relevance": "西西所在行业（腾讯云/产品）需要关注技术趋势。",
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "source": "36kr"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Claude Code 月费 200 美元，有免费替代品 Goose",
-      "summary": "Claude Code 功能强大但昂贵，开源项目 Goose 提供免费替代方案。",
-      "plain_chinese": "Claude Code 像个超级程序员助手，但请它一个月要花不少钱；现在有个叫 Goose 的免费工具，功能差不多，能帮你省下这笔开支。",
-      "relevance": "西西学习 AI 编程，关注工具成本和替代方案。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Anthropic 推出 Cowork，不用写代码也能用 AI",
-      "summary": "新工具让非技术人员也能在文件上直接使用 AI，无需编程知识。",
-      "plain_chinese": "以前用 AI 写代码得自己敲命令，现在 Cowork 就像装了个智能秘书，你直接跟它说话，它就能帮你整理文档、做表格。",
-      "relevance": "西西非技术背景，这个工具对她来说更友好，能提高办公效率。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat"
-    },
-    {
       "category": "🤖 大模型",
-      "title": "NousCoder-14B 开源，性能媲美顶尖闭源模型",
-      "summary": "开源编程模型 NousCoder-14B 发布，在编程任务上表现优异。",
-      "plain_chinese": "以前最好的编程 AI 都是收费的，现在有个叫 NousCoder 的开源模型，性能跟收费的差不多，而且完全免费，大家都能用。",
-      "relevance": "学习 AI 编程，了解开源模型的发展。",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Claude Code 创作者分享工作流，开发者直呼学到了",
-      "summary": "Claude Code 创作者公开了他的 AI 辅助编程流程。",
-      "plain_chinese": "就像高手分享秘籍一样，Claude Code 的作者告诉大家他是怎么指挥 AI 写代码的，学会了这套招式，写代码会快很多。",
-      "relevance": "学习 AI 编程的最佳实践。",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat"
+      "title": "智谱公布“降智”的秘密",
+      "summary": "模型越大越聪明，但有时会“短路”，原因是计算方式。",
+      "plain_chinese": "AI 越大越聪明，但有时候也会突然“短路”变笨。科学家发现是因为计算数据的方式不对，就像人累了反应会变慢。",
+      "relevance": "理解 AI 的运行原理，让你知道为什么有时候它不听话。",
+      "url": "https://www.qbitai.com/2026/05/412585.html",
+      "source": "量子位"
     }
   ],
   "github": [
@@ -80,8 +71,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自己给自己下任务、自己写代码、自己解决问题的 AI 助手，就像一个全自动的打工仔。",
-      "relevance": "了解 AI Agent 的经典案例，看它如何自主行动。",
+      "plain_chinese": "一个能自己给自己下任务、自己写代码的 AI。",
+      "relevance": "看看最原始的 AI 自主性长什么样。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -89,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个专门收集别人怎么跟 AI 提问的网站，你可以看到大家都在用什么“咒语”让 AI 听话，还能自己收藏。",
-      "relevance": "学习如何写出好的提示词，是 Vibe coding 的基本功。",
+      "plain_chinese": "一个收集大家怎么跟 AI 提问的网站，你可以免费使用。",
+      "relevance": "帮你找到写好提示词的灵感。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -98,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个可视化的 AI 应用搭建平台，不用写代码，像搭积木一样就能做出自己的聊天机器人或工作流。",
-      "relevance": "西西非技术背景，这个工具能帮她快速上手 AI 应用开发。",
+      "plain_chinese": "一个可视化的工具，不用写代码就能搭建自己的 AI 应用。",
+      "relevance": "适合产品经理快速验证想法，不用找程序员。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "langchain-ai/langchain",
       "summary": "The agent engineering platform. Available in TypeScript!",
-      "plain_chinese": "AI 的“胶水”和“说明书”，告诉 AI 怎么连接不同的工具（比如查资料、写代码、发邮件），让 AI 能干更多事。",
-      "relevance": "了解 AI Agent 开发的核心技术框架。",
+      "plain_chinese": "连接各种 AI 工具的“胶水”，让它们能配合工作。",
+      "relevance": "了解 AI 系统是怎么组合起来的。",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub"
     },
@@ -116,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像 ChatGPT 一样好用的界面，但你可以把它装在自己的电脑或服务器上，完全免费且隐私安全。",
-      "relevance": "方便西西本地部署和测试 AI 模型。",
+      "plain_chinese": "一个像 ChatGPT 一样好用的界面，可以自己搭建在本地。",
+      "relevance": "给你一个完全免费、私密的聊天界面。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
