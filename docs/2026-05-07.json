@@ -1,60 +1,78 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T02:41:10.730Z",
+  "generated_at": "2026-05-07T06:29:52.884Z",
   "items": [
     {
-      "category": "🤖 大模型",
-      "title": "马斯克22万张GPU卖给Claude，算力资源集中化",
-      "summary": "马斯克将22万张GPU租给Claude，算力资源向头部集中。",
-      "plain_chinese": "就像大公司之间在抢“超级大脑”的电池，谁掌握了更多算力，谁就能跑出更聪明的AI。",
-      "relevance": "让你了解目前AI领域算力资源的竞争格局。",
-      "url": "https://www.qbitai.com/2026/05/413569.html",
-      "source": "量子位"
-    },
-    {
       "category": "🦾 具身智能",
-      "title": "斯坦福团队柔性触觉传感器获亿元融资，机器人触觉升级",
-      "summary": "途见科技获亿元融资，低成本触觉手套将量产落地。",
-      "plain_chinese": "就像给机器人装上“触觉神经”，让它们能摸东西而不弄坏，变得更像人。",
-      "relevance": "展示了具身智能如何通过传感器让机器人更灵活。",
+      "title": "柔性触觉传感器公司获亿元融资，低成本触觉手套将量产",
+      "summary": "斯坦福团队研发低成本触觉手套，助力机器人“摸”清世界。",
+      "plain_chinese": "想象一下，如果机器人能像人手一样灵活地感知温度和软硬，就像给机器人装上了“触觉神经”。这家公司做的就是这个，让机器人能更好地干活。",
+      "relevance": "对西西关注具身智能和产品设计很有启发，展示了硬件如何与AI结合。",
       "url": "https://36kr.com/p/3797155747748867?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "像素绽放发力AI办公Agent，从生成PPT到交付商用级结果",
-      "summary": "PixelBloom完成C轮融资，专注能交付结果的AI办公助手。",
-      "plain_chinese": "就像给电脑装了一个能干活的秘书，你只需要告诉它目标，它就能搞定整个方案。",
-      "relevance": "展示了AI如何从“辅助工具”进化为能直接交付结果的“智能助手”。",
+      "title": "像素绽放PixelBloom完成C轮融资，发力AI办公解决方案Agent",
+      "summary": "AI助手能直接生成商用级PPT，从“辅助”进化为“交付”。",
+      "plain_chinese": "以前做PPT要自己排版、找图，现在AI助手能直接听懂你的需求，像专业设计师一样帮你把PPT做得漂漂亮亮，甚至能直接商用。",
+      "relevance": "西西正在学习vibe coding，这个产品展示了AI如何从“工具”变成“助手”，对理解AI办公场景很有帮助。",
       "url": "https://36kr.com/p/3797787228151048?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "硬件开发进入“vibe时代”，AI让设计像写代码一样简单",
-      "summary": "德国宇航局工程师创业，用AI简化硬件设计流程。",
-      "plain_chinese": "以前画电路图像解数学题，现在像画画一样简单，AI帮你自动生成设计。",
-      "relevance": "直接关联你正在学习的vibe coding，展示了AI在非软件领域的应用。",
-      "url": "https://36kr.com/p/3797224394284033?f=rss",
-      "source": "36kr AI"
+      "title": "AI PPT，这次是真不用返工了",
+      "summary": "讯飞智文Vision Agent实测，生成质量高，无需人工大幅修改。",
+      "plain_chinese": "以前用AI做PPT经常要改来改去，这次实测发现它生成的效果很稳，基本不用返工，就像有个专业实习生在帮你干活。",
+      "relevance": "验证了AI办公工具的成熟度，对西西评估AI在日常工作流中的落地价值很有参考。",
+      "url": "https://www.qbitai.com/2026/05/413296.html",
+      "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Claude Code工作流揭秘，开发者如何高效使用AI编程",
-      "summary": "Claude Code创作者分享工作流，开发者反应热烈。",
-      "plain_chinese": "就像看大师级厨师做菜，学习如何指挥AI一步步完成复杂的编程任务。",
-      "relevance": "对学习AI编程非常有价值，能帮你掌握高效的使用技巧。",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+      "summary": "著名数学家用Claude Code写代码，效率惊人，还能反向挑错。",
+      "plain_chinese": "连数学大神都在用这个AI写代码，它不仅能帮你写代码，还能像老专家一样帮你检查错误，让写代码变得像填空题一样简单。",
+      "relevance": "西西在学AI编程，这是顶级专家的亲测推荐，能直观感受AI编程的强大。",
+      "url": "https://www.qbitai.com/2026/05/413265.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code成本高达200美元，Goose提供免费替代方案",
+      "summary": "Goose是一个免费的Claude Code替代品，功能相似但价格亲民。",
+      "plain_chinese": "Claude Code虽然好用但很贵，Goose就像是一个“平替版”，功能差不多，但完全免费，适合想低成本体验AI编程的人。",
+      "relevance": "帮助西西在低成本下尝试AI编程工具，降低学习门槛。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
+      "summary": "AI推理成本成为核心，每Token成本决定模型能否商业化落地。",
+      "plain_chinese": "以前大家只看模型准不准，现在更看重“算账”，看生成一个字要花多少钱。如果太贵，再好的模型也赚不到钱。",
+      "relevance": "作为产品经理，西西需要关注AI产品的成本结构，这对产品定价和推广很重要。",
+      "url": "https://www.qbitai.com/2026/05/413604.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "NousResearch发布开源模型NousCoder-14B，对标Claude Code",
+      "summary": "新开源模型在编程能力上匹敌Claude，适合本地部署。",
+      "plain_chinese": "这是一个开源的编程模型，不需要联网就能用，功能很强，相当于把一个强大的AI编程助手装在了自己的电脑里。",
+      "relevance": "展示了开源AI在编程领域的进步，西西可以研究如何在本地环境搭建类似工具。",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
       "source": "VentureBeat AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "讯飞智文Vision Agent实测，AI PPT这次不用返工了",
-      "summary": "实测讯飞智文Vision Agent，实现AI PPT自动生成。",
-      "plain_chinese": "就像AI画师，能直接画出能用的PPT，省去了反复修改的麻烦。",
-      "relevance": "适合产品设计，展示了AI如何处理具体的办公文档生成任务。",
-      "url": "https://www.qbitai.com/2026/05/413296.html",
-      "source": "量子位"
+      "title": "Salesforce推出全新Slackbot AI Agent，全面对标微软和谷歌",
+      "summary": "Slackbot从通知工具升级为全能工作助手，能处理复杂任务。",
+      "plain_chinese": "Slack里的机器人以前只会发通知，现在变成了能帮你查资料、做决策的“超级秘书”，能处理很多复杂工作。",
+      "relevance": "展示了AI Agent在企业办公场景的应用，对西西理解AI如何融入企业工作流有帮助。",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat AI"
     }
   ],
   "github": [
@@ -62,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自己思考并完成任务的AI，不需要你一直盯着它。",
-      "relevance": "理解自主AI的基础概念，对学习AI编程很有帮助。",
+      "plain_chinese": "这是一个能自己给自己下任务、自己找工具、自己解决问题的AI。就像给AI装上了大脑，让它能像人一样独立工作。",
+      "relevance": "嘘嘘正在学AI编程，AutoGPT是AI Agent的鼻祖，能帮助理解“自主智能体”的概念。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -71,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个存放各种“魔法咒语”（提示词）的社区，免费开源。",
-      "relevance": "帮你找到更好的提示词，提升你使用AI的效率。",
+      "plain_chinese": "这是一个专门收集和分享“提示词”的社区。就像一个巨大的“咒语”图书馆，你可以进去找别人写好的咒语，或者分享你自己的。",
+      "relevance": "学习vibe coding时，好的提示词是关键，这个仓库能提供大量灵感。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -80,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个搭建AI助手的“乐高积木”工具，可以自己部署。",
-      "relevance": "适合想尝试搭建自己AI应用的产品经理。",
+      "plain_chinese": "这是一个让你不用写代码就能搭建AI应用的平台。就像搭积木一样，拖拽几个模块，就能做出一个能聊天的机器人。",
+      "relevance": "非技术背景的西西可以用它快速尝试搭建自己的AI应用，验证想法。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -89,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能记住你习惯、越用越聪明的AI助手。",
-      "relevance": "展示了如何让AI具备长期记忆和个性化能力。",
+      "plain_chinese": "这是一个能随着你使用变得越来越聪明的AI助手。它就像一个耐心的实习生，你教它一次，它就记住，下次做得更好。",
+      "relevance": "展示了AI Agent的长期记忆和进化能力，对理解下一代AI助手很有价值。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -98,8 +116,8 @@
       "category": "⭐ GitHub",
       "title": "langchain-ai/langchain",
       "summary": "The agent engineering platform. Available in TypeScript!",
-      "plain_chinese": "连接各种AI工具的“万能胶水”，让AI能串联工作。",
-      "relevance": "AI编程的核心框架，学习它就能理解如何构建复杂的AI应用。",
+      "plain_chinese": "这是AI编程的“乐高积木”，用来连接各种AI工具和数据。就像搭积木一样，把不同的零件拼起来，就能做出复杂的AI系统。",
+      "relevance": "AI编程的基础框架，西西可以了解它是如何把AI能力串联起来的。",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub"
     }
