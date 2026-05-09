@@ -1,71 +1,117 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T02:40:22.096Z",
+  "generated_at": "2026-05-09T06:09:12.955Z",
   "items": [
     {
-      "category": "🛠️ 工具",
-      "title": "小红书四年AI路：从克制到加速",
-      "summary": "小红书如何在保持“活人感”与AI之间寻找平衡。",
-      "plain_chinese": "就像在用AI帮忙整理笔记时，还得保证笔记还是自己写的，不能太冷冰冰。",
-      "relevance": "学习产品如何在AI时代保持人性化，平衡技术与体验。",
-      "url": "https://36kr.com/p/3799028783439111",
-      "source": "36kr AI"
+      "category": "🤖 大模型",
+      "title": "DeepSeek拟募资最高500亿",
+      "summary": "中国AI公司史上最大融资，V4.1定档6月，将冲击全球市场。",
+      "plain_chinese": "就像给超级跑车装上了核动力引擎，准备冲刺世界冠军。",
+      "relevance": "了解行业风向标，知道谁在烧钱抢地盘。",
+      "url": "https://www.qbitai.com/2026/05/414432.html",
+      "source": "量子位"
     },
     {
       "category": "🤖 大模型",
-      "title": "清华系AI Infra厂商完成数亿元融资",
-      "summary": "以GPU为核心重构计算机系统架构。",
-      "plain_chinese": "就像给电脑换了个超级快的“大脑”处理器，让AI跑得更快。",
-      "relevance": "了解AI发展的底层硬件基础，知道算力是AI的基石。",
-      "url": "https://36kr.com/p/3799984046333186",
-      "source": "36kr AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Anthropic发布Cowork桌面代理",
-      "summary": "无需写代码就能在电脑文件里干活。",
-      "plain_chinese": "就像请了个不需要写代码的AI管家，直接帮你整理文件、写报告。",
-      "relevance": "学习如何使用非编程类的AI工具辅助工作，提升效率。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Claude Code月费最高200美元",
-      "summary": "AI编程工具越来越贵，有免费替代品。",
-      "plain_chinese": "就像以前用打车软件，现在想用更高级的专车服务，得付更多钱。",
-      "relevance": "关注AI编程工具的成本，寻找性价比方案，适合学生党。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "Nous开源14B编程模型",
-      "summary": "开源模型性能媲美Claude Code。",
-      "plain_chinese": "就像找到了一个免费的、能写代码的“学霸”，而且不需要联网。",
-      "relevance": "学习 vibe coding 时，可以尝试用开源模型替代昂贵的商业API。",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Redis之父为DeepSeek造推理引擎",
-      "summary": "Mac上就能本地跑DeepSeek。",
-      "plain_chinese": "就像给AI装了个本地加速器，不用联网也能在自家电脑上跑。",
-      "relevance": "学习如何利用本地工具提升 AI 编程效率，保护隐私。",
-      "url": "https://www.qbitai.com/2026/05/414316.html",
+      "title": "百度发布文心 5.1：搜索能力登顶国内",
+      "summary": "预训练成本仅为业界6%，搜索能力国内第一，性能大幅提升。",
+      "plain_chinese": "就像给搜索引擎装了个超级大脑，不仅快还特别省电。",
+      "relevance": "关注大模型性能基准，了解国产模型实力。",
+      "url": "https://www.qbitai.com/2026/05/414496.html",
       "source": "量子位"
     },
     {
       "category": "🦾 具身智能",
-      "title": "维新宇航完成eVTOL首飞测试",
-      "summary": "7座3吨级飞行汽车将于7月首飞。",
-      "plain_chinese": "就像把汽车和飞机合二为一，以后上班可能直接飞过去。",
-      "relevance": "关注具身智能在交通工具领域的落地应用，了解前沿趋势。",
-      "url": "https://36kr.com/p/3800495686163721",
-      "source": "36kr AI"
+      "title": "行业首创空间3D显示，还能主动提醒叫车",
+      "summary": "千问AI眼镜实现信息“立”起来，具备主动服务能力。",
+      "plain_chinese": "就像给眼睛配了个隐形管家，信息直接浮在眼前，还能帮你叫车。",
+      "relevance": "关注具身智能硬件形态，启发产品设计。",
+      "url": "https://www.qbitai.com/2026/05/414501.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "7座3吨级eVTOL将于7月进行首飞测试",
+      "summary": "低空出行产品研制商获融资，7月首飞，瞄准未来空中出租车。",
+      "plain_chinese": "就像未来的空中出租车，7月就要上天试飞了。",
+      "relevance": "关注具身智能落地场景，了解未来出行。",
+      "url": "https://36kr.com/p/3800495686163721?f=rss",
+      "source": "36氪"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic推出Cowork，无需编程即可操作文件",
+      "summary": "面向非技术用户的桌面AI助手，无需代码即可操作本地文件。",
+      "plain_chinese": "就像把电脑变成了一个超级秘书，不用写代码就能帮你整理文件。",
+      "relevance": "学习 vibe coding 的入门工具，提升办公效率。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "GPT-5级推理能力塞进语音模型，翻译成本砍穿地板价",
+      "summary": "OpenAI上新三款实时语音模型，将高阶推理能力融入语音交互。",
+      "plain_chinese": "就像给手机装了个会思考的翻译官，不仅能听懂还能像人一样思考。",
+      "relevance": "关注AI交互体验，提升沟通效率。",
+      "url": "https://www.qbitai.com/2026/05/414194.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "小红书四年AI路：从FOMO到突然加速",
+      "summary": "小红书在真实感与AI之间寻找平衡，近期决定加速拥抱AI。",
+      "plain_chinese": "就像在“真人社区”和“机器人社区”之间走钢丝，最近决定加速拥抱AI。",
+      "relevance": "学习产品经理如何在AI时代平衡技术与用户体验。",
+      "url": "https://36kr.com/p/3799028783439111?f=rss",
+      "source": "36氪"
     }
   ],
-  "github": [],
+  "github": [
+    {
+      "category": "⭐ GitHub",
+      "title": "Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "plain_chinese": "一个能自己思考并完成任务的机器人，不用你一步步教。",
+      "relevance": "理解自动化代理的基本概念，是 vibe coding 的进阶方向。",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "plain_chinese": "一个提示词大超市，大家把好用的指令放进去互相学习。",
+      "relevance": "积累高质量提示词库，提升与 AI 交互的精准度。",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "langgenius/dify",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "plain_chinese": "一个像搭积木一样搭建AI应用的工具，不用写代码。",
+      "relevance": "无需代码即可快速搭建 AI 应用，非常适合产品经理上手。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "plain_chinese": "一个能陪你成长的智能助手框架，越用越聪明。",
+      "relevance": "学习如何构建长期记忆和上下文感知的智能体。",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "plain_chinese": "一个像聊天软件一样的界面，让你在本地电脑上也能用AI。",
+      "relevance": "提供友好的本地化 AI 交互环境，方便测试和调试。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
+    }
+  ],
   "raw_count": 36
 }
