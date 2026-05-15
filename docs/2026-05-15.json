@@ -1,60 +1,78 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T02:55:36.837Z",
+  "generated_at": "2026-05-15T06:50:08.150Z",
   "items": [
     {
       "category": "🦾 具身智能",
-      "title": "具身智能融资超550亿元",
-      "summary": "2026年AI机器人赛道吸金超550亿元，热度持续攀升。",
-      "plain_chinese": "就像现在的电动车热潮，大家都在抢着投机器人，钱都往这里流。",
-      "relevance": "帮你快速了解目前最火热的AI赛道趋势。",
+      "title": "具身智能成2026上半年最火赛道，融资超550亿",
+      "summary": "行业融资活跃，资金涌入机器人领域。",
+      "plain_chinese": "就像现在的奶茶店一样，大家都在抢着投钱做机器人，这年头谁不想拥有自己的“数字员工”呢？",
+      "relevance": "帮你了解目前最热门的投资方向，方便跟老板聊行业趋势。",
       "url": "https://36kr.com/p/3809911566704388",
-      "source": "36kr AI"
+      "source": "36kr"
     },
     {
       "category": "🦾 具身智能",
-      "title": "具身公司用人类视角重做",
-      "summary": "国内具身公司获数亿融资，主打“人类学习”路线。",
-      "plain_chinese": "教机器人像人一样思考，而不是像机器一样死板，这是新方向。",
-      "relevance": "产品设计的新思路，值得产品经理关注。",
+      "title": "具身公司融资数亿，用人类视角重做机器人",
+      "summary": "国内具身智能公司获大额融资，强调人类学习路线。",
+      "plain_chinese": "这家公司觉得现在的机器人太笨了，想教它们像人一样思考和学习，现在拿到了大笔钱来研发。",
+      "relevance": "帮你理解具身智能的新玩法，看看产品经理视角的机器人长什么样。",
       "url": "https://www.qbitai.com/2026/05/417935.html",
       "source": "量子位"
     },
     {
-      "category": "🤖 大模型",
-      "title": "国产GPU组了个开源局",
-      "summary": "国产GPU开启生态坐标之争，把核心开发者都摇来了。",
-      "plain_chinese": "中国开发者正在联合起来，搭建自己的AI硬件工具包。",
-      "relevance": "了解国内AI基础设施的生态建设情况。",
-      "url": "https://www.qbitai.com/2026/05/417791.html",
-      "source": "量子位"
+      "category": "🛠️ 工具",
+      "title": "Claude Code 月费高达200美元，免费替代品来了",
+      "summary": "Anthropic的代码助手很贵，新工具Goose提供免费替代。",
+      "plain_chinese": "原来让AI帮你写代码这么烧钱，现在有个叫Goose的免费工具能干同样的活，省钱小妙招。",
+      "relevance": "帮你省钱学AI编程，对比不同工具的成本效益。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat"
     },
     {
-      "category": "🤖 大模型",
-      "title": "腾讯开源Agent记忆技术",
-      "summary": "腾讯开源Agent记忆方案，Token消耗最高降低61%。",
-      "plain_chinese": "给AI装个“备忘录”，让它记得住你说过的话，不用反复提醒。",
-      "relevance": "让AI助手更聪明，提升工作效率。",
+      "category": "🛠️ 工具",
+      "title": "Anthropic推新工具Cowork，无需写代码就能用",
+      "summary": "新工具让非技术人员也能用Claude处理文件。",
+      "plain_chinese": "以后不用懂代码也能让AI帮你整理文档、做表格，就像有个超级秘书帮你干活。",
+      "relevance": "符合你学习“vibe coding”的目标，体验非技术用户如何使用AI。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code作者分享工作流，开发者直呼内行",
+      "summary": "顶级AI编程助手的使用技巧被公开，引发热议。",
+      "plain_chinese": "像是揭秘了米其林大厨的独门秘籍，教你如何更高效地指挥AI干活。",
+      "relevance": "学习顶级AI工具的使用技巧，提升你的“人机协作”效率。",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "腾讯开源Agent记忆技术方案，Token消耗降61%",
+      "summary": "腾讯开源AI记忆技术，大幅降低成本。",
+      "plain_chinese": "就像给AI装了个“记事本”，让它不用每次都从头看一遍，省下的钱能买好多杯奶茶。",
+      "relevance": "了解大厂如何优化AI成本，对产品成本控制有启发。",
       "url": "https://www.qbitai.com/2026/05/417753.html",
       "source": "量子位"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "Claude Code太贵？免费替代品来了",
-      "summary": "Claude Code月费高达200美元，Goose提供免费功能。",
-      "plain_chinese": "AI写代码很贵，Goose是那个免费的“平替”，帮你省钱。",
-      "relevance": "帮你找到性价比更高的AI编程工具。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI"
+      "category": "🤖 大模型",
+      "title": "Kimi背后AI基建有多强？人手一个数据库",
+      "summary": "探讨Kimi背后的技术架构和商业化能力。",
+      "plain_chinese": "就像给AI装了一个超级大脑，让它能记住海量信息，还能像人一样思考。",
+      "relevance": "了解热门AI产品的底层逻辑，辅助产品设计思考。",
+      "url": "https://www.qbitai.com/2026/05/417731.html",
+      "source": "量子位"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "Anthropic推出免代码AI助手",
-      "summary": "Claude新功能Cowork，无需编程就能操作文件。",
-      "plain_chinese": "就像请了个全能秘书，不用你写代码就能帮你整理文件。",
-      "relevance": "非技术背景也能用AI，非常适合你学习。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
+      "category": "🤖 大模型",
+      "title": "国产GPU搞开源生态，集结核心开发者",
+      "summary": "国产硬件厂商联合开源社区，构建技术生态。",
+      "plain_chinese": "就像国产手机厂商联合起来搞系统，吸引大家一起来开发，不再被国外技术卡脖子。",
+      "relevance": "关注国产替代趋势，了解AI硬件生态的竞争格局。",
+      "url": "https://www.qbitai.com/2026/05/417791.html",
+      "source": "量子位"
     }
   ],
   "github": [
@@ -62,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "AutoGPT 就像一个不知疲倦的实习生，能自己定目标、自己找工具干活。",
-      "relevance": "帮你理解AI自动化的终极形态。",
+      "plain_chinese": "这是一个能自己定目标、自己拆解任务、自己写代码去实现的AI，就像一个全自动的“数字实习生”。",
+      "relevance": "了解最经典的AI自主代理概念，感受AI编程的潜力。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -71,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "prompts.chat 就像一个提示词图书馆，里面存满了各种好用的AI指令。",
-      "relevance": "帮你学习如何更好地与AI对话。",
+      "plain_chinese": "这是一个专门收集和分享“提示词”的社区，你可以像逛超市一样挑选别人写好的指令，拿来就用。",
+      "relevance": "帮你快速积累提示词技巧，提升与AI沟通的效率。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -80,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "hermes-agent 就像一个不断学习的学生，能随着你的使用变得越来越聪明。",
-      "relevance": "帮你观察AI智能体的进化方向。",
+      "plain_chinese": "这是一个能随着你使用越来越聪明的AI助手，它就像一个不断升级打怪的“数字伙伴”。",
+      "relevance": "探索AI助手的长期记忆和进化能力，思考如何构建个性化AI。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -89,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "dify 就像搭建AI应用的乐高积木，不用写代码也能组合出强大的AI流程。",
-      "relevance": "产品经理构建AI应用的好帮手。",
+      "plain_chinese": "这是一个可视化的AI工作流搭建平台，不需要写代码就能把各种AI工具像搭积木一样连起来。",
+      "relevance": "非常适合你学习“vibe coding”，体验低代码构建AI应用。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -98,8 +116,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "open-webui 就像给AI装了个好看的操作面板，让你用起来更顺手。",
-      "relevance": "方便你日常使用各种AI工具。",
+      "plain_chinese": "这是一个像ChatGPT一样好用的开源界面，可以连接你本地的AI模型，保护隐私又免费。",
+      "relevance": "搭建自己的AI工作台，方便随时测试和调试AI模型。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
