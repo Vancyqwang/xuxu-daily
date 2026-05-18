@@ -1,69 +1,69 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T03:29:57.029Z",
+  "generated_at": "2026-05-18T07:56:12.877Z",
   "items": [
     {
       "category": "🛠️ 工具",
       "title": "3人带100个AI程序员，月烧130万美元",
-      "summary": "OpenAI 替买单，展示 AI 编程流水线的高昂成本与效率。",
-      "plain_chinese": "想象一下，以前写代码要一个人干很久，现在用 AI 像开工厂流水线一样，虽然效率高，但电费（算力费）烧得也快。",
-      "relevance": "帮你了解 AI 编程的“烧钱”程度，评估成本。",
+      "summary": "OpenAI 替买单，展示 AI 编程流水线的高昂成本。",
+      "plain_chinese": "想象一下雇佣 100 个超级程序员，但不用付工资，只付“电费”。OpenAI 正在资助这种疯狂的开发速度。",
+      "relevance": "展示了 AI 编程的规模和成本，帮助西西理解“vibe coding”的潜力。",
       "url": "https://36kr.com/p/3812925591887368?f=rss",
       "source": "36kr AI"
     },
     {
-      "category": "📄 论文研究",
-      "title": "Claude Code写论文全套流水线开源",
-      "summary": "GitHub 6.4k Star，涵盖研究、写作、审稿全流程。",
-      "plain_chinese": "就像给 Claude 配了一套“学霸外挂”，从找资料到写论文全流程自动化，不用自己从头硬啃。",
-      "relevance": "非常适合正在学习 vibe coding 的你，演示如何用 AI 辅助学术工作。",
-      "url": "https://36kr.com/p/3812800346742274?f=rss",
-      "source": "36kr AI"
+      "category": "🛠️ 工具",
+      "title": "Anthropic发布Cowork，无需写代码即可操作文件",
+      "summary": "Anthropic 推出 Cowork，让非技术人员也能使用 Claude Code 的能力。",
+      "plain_chinese": "就像把 Claude 放在你的电脑桌面上，它可以直接帮你整理文件、写报告，不需要你会敲代码。",
+      "relevance": "非常适合西西学习“vibe coding”，因为它降低了技术门槛。",
+      "url": "https://www.technologyreview.com/2026/05/15/1137341/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code月费高达200美元，有免费替代品",
+      "summary": "Claude Code 很强大但很贵，有免费工具 Goose 提供类似功能。",
+      "plain_chinese": "Claude Code 就像顶级私教，按小时收费很贵；Goose 就像公共健身房，免费但需要自己练。",
+      "relevance": "帮助西西在预算内选择合适的 AI 编程工具。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
     },
     {
       "category": "🦾 具身智能",
       "title": "机器狗拱翻英伟达算力王座",
-      "summary": "具身智能新突破，可能改变未来算力需求结构。",
-      "plain_chinese": "以前算力是给电脑用的，现在算力要给“机器狗”这种能跑能跳的机器人用了，需求变了。",
-      "relevance": "关注具身智能趋势，这对产品设计很有启发。",
+      "summary": "一只机器狗展示了惊人的算力效率，挑战了 GPU 的主导地位。",
+      "plain_chinese": "以前大家都比谁的显卡（GPU）算得快，现在机器狗直接用“腿”跑赢了显卡，说明具身智能很厉害。",
+      "relevance": "展示了具身智能领域的最新突破，激发对 AI 未来的想象。",
       "url": "https://www.qbitai.com/2026/05/418969.html",
       "source": "量子位"
     },
     {
       "category": "🤖 大模型",
-      "title": "龙虾之父月烧940万Token",
-      "summary": "入职 OpenAI 后疯狂用 AI，成本惊人，凸显模型使用门槛。",
-      "plain_chinese": "就像家里装了个永远不关的灯泡，用 AI 写代码就像用自来水一样，水费（Token 费）哗哗流。",
-      "relevance": "让你直观感受 AI 编程的“昂贵”程度。",
+      "title": "龙虾之父月烧940万token",
+      "summary": "一位 AI 创业者每月花费近 100 万美元的 AI Token。",
+      "plain_chinese": "就像有人开着敞篷跑车狂按油门，虽然跑得快，但油费（token费）贵得吓人。",
+      "relevance": "提醒西西在使用 AI 时要注意成本控制。",
       "url": "https://www.qbitai.com/2026/05/418822.html",
       "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Claude Code月费200美元，免费替代品来了",
-      "summary": "Goose 工具提供类似功能，但完全免费。",
-      "plain_chinese": "Claude Code 像是高级餐厅，Goose 像是路边摊，味道差不多但不用花钱。",
-      "relevance": "帮你省钱，找到性价比高的 AI 编程工具。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Anthropic推出无代码版Claude Cowork",
-      "summary": "无需写代码，直接在桌面端操作文件。",
-      "plain_chinese": "就像给电脑装了个全能管家，你不用懂代码，只需说话，它就能帮你整理文件、写报告。",
-      "relevance": "非常适合非技术背景的你，体验“零代码” AI 助手。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Claude Code 创作者分享工作流",
-      "summary": "开发者疯狂学习其高效开发模式。",
-      "plain_chinese": "就像大厨公开了米其林餐厅的独家秘方，教你如何用 AI 把活儿干得又快又好。",
-      "relevance": "学习顶级 AI 编程工作流，提升你的 vibe coding 技能。",
+      "title": "Claude Code之父揭秘工作流",
+      "summary": "Claude Code 创作者分享了他的工作流程，开发者们很兴奋。",
+      "plain_chinese": "就像一位大厨公开了他的独家食谱，大家都在学怎么用 AI 做出最棒的菜。",
+      "relevance": "提供了学习“vibe coding”的实操思路。",
       "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
       "source": "VentureBeat AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "GEO优化：大模型不是喂什么就推什么",
+      "summary": "随着搜索引擎转向 AI，SEO 正在演变为 GEO。",
+      "plain_chinese": "以前在百度搜东西，你把关键词堆上去就能排前面；现在用 AI 搜，你得学会怎么“提问”才能得到好答案。",
+      "relevance": "对产品经理优化产品搜索和推荐功能很有启发。",
+      "url": "https://36kr.com/p/3814337101111044?f=rss",
+      "source": "36kr AI"
     }
   ],
   "github": [
@@ -71,8 +71,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自己定目标、自己拆任务、自己写代码的“超级机器人”，不用你盯着它干。",
-      "relevance": "了解 AI Agent 的鼻祖，理解自动化编程的雏形。",
+      "plain_chinese": "一个让 AI 自己给自己下任务、自己写代码、自己解决问题的“超级管家”。",
+      "relevance": "理解 AI Agent 的核心概念，对学习自动化工作流很有帮助。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -80,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个巨大的“提示词”仓库，大家把好用的咒语（提示词）存起来，随时拿来用。",
-      "relevance": "学习如何写好提示词，是 vibe coding 的基本功。",
+      "plain_chinese": "一个大家分享“提示词”的社区，就像一个巨大的 AI 秘书经验库。",
+      "relevance": "帮助西西积累和优化提示词，提升 AI 编程效率。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -89,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能陪你成长、记得你习惯的智能助手，越用越懂你。",
-      "relevance": "体验个性化 AI Agent，思考如何将其应用到产品中。",
+      "plain_chinese": "一个能随着你使用越来越聪明的 AI 助手，它会记住你的习惯。",
+      "relevance": "展示了 Agent 的个性化能力，对产品设计有参考价值。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -98,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个可视化的“AI 应用搭建器”，像搭积木一样就能做出自己的 AI 应用。",
-      "relevance": "非常适合产品经理，快速验证 AI 产品想法。",
+      "plain_chinese": "一个可视化的 AI 工作流搭建平台，像搭积木一样设计 AI 流程。",
+      "relevance": "非常适合西西这种非技术人员，快速搭建内部 AI 应用。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像聊天软件一样的 AI 界面，可以连接各种模型，界面好看又好用。",
-      "relevance": "搭建自己的 AI 办公环境，提升工作效率。",
+      "plain_chinese": "一个像 ChatGPT 一样好用的网页界面，可以连接你本地的 AI 模型。",
+      "relevance": "提供了一个私密的 AI 对话环境，保护数据安全。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
