@@ -1,69 +1,87 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T02:54:45.671Z",
+  "generated_at": "2026-05-28T07:46:45.342Z",
   "items": [
     {
-      "category": "🛠️ 工具",
-      "title": "快手可灵AI年化收入近5亿美元",
-      "summary": "快手可灵AI收入激增4倍，主要靠B端API和P端订阅双轮驱动。",
-      "plain_chinese": "就像一个卖“AI魔法药水”的商店，以前一个月只卖几瓶，现在一个月能卖几百万瓶，而且大家都在抢着买。",
-      "relevance": "西西在学AI编程，看到大厂AI工具变现能力这么强，能激励自己坚持学习。",
-      "url": "https://36kr.com/p/3827497128465287?f=rss",
+      "category": "具身智能",
+      "title": "消费级智能船艇公司获融资，水面机器人来了",
+      "summary": "安澜动力半年内完成三轮融资，专注水面环保与智能驾驶，瞄准欧美垄断的蓝海市场。",
+      "plain_chinese": "就像陆地上的电动车一样，以后水上也有智能船了，能自己开还能环保，以后去水上玩可能就靠它了。",
+      "relevance": "西西关注具身智能，这是硬件落地的例子。",
+      "url": "https://36kr.com/p/3820713545846917?f=rss",
       "source": "36kr AI"
     },
     {
-      "category": "🦾 具身智能",
-      "title": "95后打造AI母婴界特斯拉",
-      "summary": "95后团队打造AI母婴智能硬件，完成天使轮融资。",
-      "plain_chinese": "就像给婴儿造了一个“超级保姆机器人”，能听懂婴儿的需求，比普通玩具更聪明。",
-      "relevance": "西西关注具身智能，这展示了AI如何从软件走进硬件，进入生活场景。",
+      "category": "具身智能",
+      "title": "95后打造AI母婴界“特斯拉”，获数千万元融资",
+      "summary": "Coddie团队来自华为、传音等大厂，推出AI母婴智能硬件，瞄准高端母婴市场。",
+      "plain_chinese": "就像给婴儿造了个高科技保姆，能听懂孩子需求，以后带娃可能更轻松。",
+      "relevance": "西西关注产品设计，这是AI硬件在垂直领域的应用。",
       "url": "https://36kr.com/p/3826922264286083?f=rss",
       "source": "36kr AI"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "北大团队5秒完成3D场景编辑",
-      "summary": "北大&港中文&上海AI Lab推出VGGT-Edit，速度提升120倍。",
-      "plain_chinese": "以前改个3D场景要半天，现在像变魔术一样，5秒钟就能把房子里的家具换个位置。",
-      "relevance": "西西在做产品设计，这种超快速度的工具能极大提升她的工作效率。",
-      "url": "https://www.qbitai.com/2026/05/425870.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "复旦系触觉具身机器人获近亿融资",
-      "summary": "复旦系团队研发触觉机器人，解决机器人“摸不准”的问题。",
-      "plain_chinese": "以前机器人像没长手一样，现在它能像人手一样，通过“触摸”感知物体的软硬冷热。",
-      "relevance": "西西关注具身智能，这是让机器人真正像人一样工作的关键技术。",
+      "category": "具身智能",
+      "title": "触觉具身新星获近亿融资，让机器人学会“触摸”",
+      "summary": "复旦系团队研发机器人触觉技术，天使轮近亿，旨在解决机器人感知难题。",
+      "plain_chinese": "以前机器人只会用眼睛看，现在它们能像人手一样通过触觉感知东西了，以后干精细活更厉害。",
+      "relevance": "西西关注具身智能，这是机器人感知技术的突破。",
       "url": "https://www.qbitai.com/2026/05/425660.html",
       "source": "量子位"
     },
     {
-      "category": "🤖 大模型",
-      "title": "1400亿Agent入场，流量护城河要塌",
-      "summary": "大厂纷纷押注Agent生态，改变流量格局。",
-      "plain_chinese": "以前大家抢着做APP，现在大家都在造“AI小管家”，这些管家能帮用户自动处理事情，不再需要下载APP。",
-      "relevance": "西西学AI编程，Agent是未来的核心，理解这个趋势很重要。",
-      "url": "https://www.qbitai.com/2026/05/425881.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Codex自我蒸馏玩法火了",
-      "summary": "OpenAI员工分享提示词，让AI消灭重复劳动。",
-      "plain_chinese": "教AI自己教自己，就像让学霸给学渣补习，补习完的学渣水平就变学霸了。",
-      "relevance": "西西在做Vibe Coding，这种自我提升的技巧能让她写的代码更高效。",
+      "category": "工具",
+      "title": "OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+      "summary": "Codex自我蒸馏玩法火了，只需一段提示词，就能让AI自动优化代码，大幅提升效率。",
+      "plain_chinese": "就像给AI装了个“作弊外挂”，告诉它怎么教自己写代码，以后写重复代码再也不用动手了。",
+      "relevance": "西西正在学 vibe coding，这对提高编程效率很有帮助。",
       "url": "https://www.qbitai.com/2026/05/425810.html",
       "source": "量子位"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "Claude Code月费高达200美元",
-      "summary": "顶级AI编程工具价格昂贵，有免费替代品出现。",
-      "plain_chinese": "用最顶级的AI写代码，一个月要花掉普通人半个月的工资，好在现在有免费的选择了。",
-      "relevance": "西西在学AI编程，了解成本结构能帮她更好地规划预算。",
+      "category": "工具",
+      "title": "Claude Code 月费高达200美元，免费替代品来了",
+      "summary": "Claude Code 功能强大但昂贵，Goose项目提供类似功能且免费，引发开发者关注。",
+      "plain_chinese": "Claude Code 像个超级程序员，但按小时收费很贵；Goose 是个免费的替代品，功能差不多，省钱首选。",
+      "relevance": "西西学习 AI 编程，关注工具成本和替代方案。",
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "source": "VentureBeat AI"
+    },
+    {
+      "category": "工具",
+      "title": "Anthropic推出Cowork，让非技术人员也能用AI干活",
+      "summary": "Cowork 是一个桌面端 AI 代理，无需编程即可操作文件，让不懂代码的人也能用 AI 办公。",
+      "plain_chinese": "以前用 AI 写代码得懂技术，现在 Anthropic 推出了个工具，让不懂代码的西西也能直接指挥 AI 处理文件。",
+      "relevance": "西西非技术背景，这个工具非常适合她这种“产品经理”角色。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "大模型",
+      "title": "快手可灵AI月收入近5亿美元，年化增长4倍",
+      "summary": "可灵AI 3月ARR近5亿美元，主要靠B端API和P端订阅驱动，增长迅猛。",
+      "plain_chinese": "快手的 AI 工具现在非常赚钱，大家都在用，说明 AI 不仅能聊天，还能实实在在地帮企业赚钱。",
+      "relevance": "西西在腾讯云工作，关注大模型商业化落地情况。",
+      "url": "https://36kr.com/p/3827497128465287?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "大模型",
+      "title": "1400亿Agent入场，大厂争抢AI代理生态",
+      "summary": "大厂纷纷投入巨资布局 Agent 生态，试图在下一代 AI 竞争中占据主导地位。",
+      "plain_chinese": "现在的 AI 不只是聊天机器人，而是能帮人干活、做决策的“代理”，大厂都在抢着做这个。",
+      "relevance": "西西关注 AI 编程趋势，Agent 是未来的核心方向。",
+      "url": "https://www.qbitai.com/2026/05/425881.html",
+      "source": "量子位"
+    },
+    {
+      "category": "论文研究",
+      "title": "北大团队5秒完成3D场景编辑，速度提升120倍",
+      "summary": "VGGT-Edit 模型能快速将2D图片转为3D场景，解决了传统3D建模慢的痛点。",
+      "plain_chinese": "以前把一张照片变成 3D 场景要很久，现在北大团队搞了个黑科技，几秒钟就能搞定，做游戏和设计更方便了。",
+      "relevance": "西西关注产品设计，3D 效果是设计的重要部分。",
+      "url": "https://www.qbitai.com/2026/05/425870.html",
+      "source": "量子位"
     }
   ],
   "github": [
@@ -71,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个让AI自动帮你做任务的框架，不用你一步步指挥。",
-      "relevance": "西西学vibe coding，可以看看别人怎么让AI自动干活，启发思路。",
+      "plain_chinese": "一个能自己定目标、自己写代码去实现目标的 AI，就像个全自动的打工仔。",
+      "relevance": "西西学 vibe coding，这是 Agent 的鼻祖项目，值得了解。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -80,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能不断学习和成长的AI助手。",
-      "relevance": "西西在做产品，这种“成长型”AI能模拟用户反馈，帮助优化产品设计。",
+      "plain_chinese": "一个能随着你使用越来越聪明的 AI 代理，就像个不断升级的私人助理。",
+      "relevance": "西西关注 AI 编程，这个项目展示了 Agent 的自我进化能力。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -89,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个收集和分享好提示词的社区，像提示词的“图书馆”。",
-      "relevance": "西西学AI编程，这里有很多现成的“咒语”可以直接拿来用。",
+      "plain_chinese": "一个存放各种“魔法咒语”（提示词）的仓库，大家分享怎么跟 AI 对话效果最好。",
+      "relevance": "西西学 vibe coding，写好提示词是关键，这个仓库是宝库。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -98,8 +116,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个能搭建自己AI工作流的平台，不用写代码就能搭。",
-      "relevance": "西西非技术背景，这个工具能帮她快速把AI想法变成实际应用。",
+      "plain_chinese": "一个能让你自己搭建 AI 应用（比如聊天机器人）的平台，不需要写代码。",
+      "relevance": "西西非技术背景，Dify 是做 AI 产品的神器，能帮她快速落地想法。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +125,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像聊天软件一样的AI界面，支持各种模型。",
-      "relevance": "西西学AI编程，这个界面能让她方便地测试和调试代码。",
+      "plain_chinese": "一个像 ChatGPT 一样好用的网页界面，可以连接你自己的 AI 模型，保护隐私。",
+      "relevance": "西西想自己部署模型，这个工具提供了最友好的操作界面。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
