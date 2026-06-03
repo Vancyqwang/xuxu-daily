@@ -1,7 +1,126 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T03:53:22.325Z",
-  "items": [],
-  "github": [],
+  "generated_at": "2026-06-03T08:47:01.062Z",
+  "items": [
+    {
+      "category": "🤖 大模型",
+      "title": "火山引擎 MaaS 营收目标翻倍",
+      "summary": "字节跳动将 MaaS 收入目标上调至 150 亿元，几乎每月都在上调。",
+      "plain_chinese": "就像给 AI 服务定了一个巨大的“销售目标”，说明大家都在抢这块蛋糕。",
+      "relevance": "作为腾讯云的秘书，了解竞争对手的野心很重要。",
+      "url": "https://36kr.com/p/3836973710423429?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "深圳具身公司融资超 10 亿",
+      "summary": "星尘智能完成 B 轮融资，估值破百亿，成为深圳又一家百亿独角兽。",
+      "plain_chinese": "机器人公司拿到了大钱，说明大家觉得机器人以后能像人一样干活。",
+      "relevance": "具身智能是热门赛道，值得跟踪。",
+      "url": "https://36kr.com/p/3836068296209537?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "浙大团队做高危场景机器人",
+      "summary": "专注矿山、电力等高危场景的具身智能公司完成融资。",
+      "plain_chinese": "让机器人去干危险活，保护人类安全。",
+      "relevance": "具身智能的实际应用场景。",
+      "url": "https://36kr.com/p/3836744788014208?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "豆包推出付费订阅",
+      "summary": "豆包推出四档收费标准，最高月费 500 元，探索增值服务。",
+      "plain_chinese": "连免费的 AI 助手都要开始收费了，说明 AI 正在变成一种服务。",
+      "relevance": "产品设计中的商业模式探索。",
+      "url": "https://36kr.com/p/3835814391100550?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "Anthropic 提交招股书",
+      "summary": "AI 龙头 Anthropic 计划最快 Q4 上市。",
+      "plain_chinese": "AI 公司要上市了，说明这行赚钱了。",
+      "relevance": "行业风向标。",
+      "url": "https://www.qbitai.com/2026/06/428407.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Meta Skill 发布",
+      "summary": "GitHub 上新火仓库 OpenSquilla，Meta 推出新技能。",
+      "plain_chinese": "Meta 发布了一个新技能，可能是让 AI 更会干活。",
+      "relevance": "AI 编程工具更新。",
+      "url": "https://www.qbitai.com/2026/06/428335.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "字节开源 Bernini 框架",
+      "summary": "给 DiT 配“大模型军师”，AI 视频编辑先理解再动手。",
+      "plain_chinese": "AI 做视频更聪明了，不是瞎剪，而是先看懂再剪。",
+      "relevance": "AI 视频生成工具。",
+      "url": "https://www.qbitai.com/2026/06/427810.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code 贵，Goose 免费",
+      "summary": "Claude Code 月费 200 美元，有免费替代品 Goose。",
+      "plain_chinese": "写代码的 AI 工具很贵，但有人提供了免费版。",
+      "relevance": "AI 编程工具的成本考量。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    }
+  ],
+  "github": [
+    {
+      "category": "⭐ GitHub",
+      "title": "Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "plain_chinese": "让 AI 自动帮你做任务，不用你一直盯着。",
+      "relevance": "了解 AI 自主性的基础。",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "plain_chinese": "一个能陪你成长的智能助手。",
+      "relevance": "学习如何构建智能体。",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "plain_chinese": "大家分享“怎么问 AI”的地方。",
+      "relevance": "学习如何写出好的提示词（Vibe coding 的关键）。",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "langgenius/dify",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "plain_chinese": "搭建 AI 工作流的一站式平台。",
+      "relevance": "构建自己的 AI 应用。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "plain_chinese": "一个好用的 AI 界面，像聊天软件一样。",
+      "relevance": "管理 AI 模型。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
+    }
+  ],
   "raw_count": 36
 }
