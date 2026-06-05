@@ -1,7 +1,117 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T03:42:56.473Z",
-  "items": [],
-  "github": [],
+  "generated_at": "2026-06-05T07:59:13.932Z",
+  "items": [
+    {
+      "category": "🛠️ 工具",
+      "title": "Google搜索框25年来首次大改版",
+      "summary": "谷歌重新设计了搜索界面，以更好地适应生成式AI，提供更直观的交互体验。",
+      "plain_chinese": "就像把老式收音机换成了智能音箱，以前只能听歌，现在能聊天了，界面更懂你的心思。",
+      "relevance": "产品设计灵感，了解AI如何改变用户交互界面。",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-its-matters-more-than-you-think",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic推出无需编程的桌面AI助手",
+      "summary": "Claude Code的升级版，让非程序员也能直接操作文件，无需写代码。",
+      "plain_chinese": "就像给电脑装了个超级管家，你不用敲代码，直接跟它说“把这份报告改一下”，它就帮你干了。",
+      "relevance": "学习 vibe coding 的好帮手，非技术人员也能用。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "旷视唐文斌创立具身智能公司获大模型公司投资",
+      "summary": "原旷视CTO唐文斌创立的原力灵机获得智谱、商汤等投资，专注通用具身大模型。",
+      "plain_chinese": "就是给机器人装上“大脑”，让它能像人一样思考和干活，不再只是死板的机器。",
+      "relevance": "具身智能领域风向标，关注行业大佬动向。",
+      "url": "https://36kr.com/p/3838835333253385?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "全球首个机器人训练楼盘开盘",
+      "summary": "30万套住宅专门给机器人训练，机器人拎包入住，提供真实场景。",
+      "plain_chinese": "给机器人建了个“模拟城市”，让它们在真实环境中练手，就像人类去新城市旅游适应环境一样。",
+      "relevance": "具身智能落地场景，理解AI如何融入生活。",
+      "url": "https://www.qbitai.com/2026/06/429349.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "阶跃Step 3.7 Flash登顶AA榜",
+      "summary": "国产大模型在速度、性价比和端到端三项指标上表现优异，登顶榜单。",
+      "plain_chinese": "就像国产车在赛道上跑得又快又省油，证明咱们自己的技术很强，性价比很高。",
+      "relevance": "了解国产大模型实力，关注技术突破。",
+      "url": "https://www.qbitai.com/2026/06/429294.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code月费高达200美元",
+      "summary": "顶级AI编程助手很贵，但有免费替代品，引发对AI编程成本的讨论。",
+      "plain_chinese": "用AI写代码就像雇了个顶级程序员，按小时收费很贵；现在有免费的“实习生”可以替代。",
+      "relevance": "AI编程成本意识，寻找性价比工具。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "微信与手机厂商合作推出A2A助手",
+      "summary": "手机系统AI能直接发微信，实现Agent协作，数据安全有双重保障。",
+      "plain_chinese": "手机助手和微信“结盟”了，你不用打开微信，直接让手机助手帮你发消息，更方便了。",
+      "relevance": "Agent协作机制，了解AI如何打通应用壁垒。",
+      "url": "https://36kr.com/p/3839575253993985?f=rss",
+      "source": "36kr AI"
+    }
+  ],
+  "github": [
+    {
+      "category": "⭐ GitHub",
+      "title": "Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "plain_chinese": "一个能自己给自己定任务、自己写代码的AI，就像一个不用睡觉的超级实习生。",
+      "relevance": "了解AI Agent的雏形，感受自动化编程的潜力。",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "plain_chinese": "一个能记住你所有指令、越用越聪明的AI助手，就像一个记性极好的秘书。",
+      "relevance": "学习如何构建长期记忆的Agent，提升交互体验。",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "plain_chinese": "一个存放各种“提示词”的仓库，就像一个AI界的“菜谱大全”，大家分享怎么跟AI对话。",
+      "relevance": "提升与AI沟通技巧，寻找灵感。",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "langgenius/dify",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "plain_chinese": "一个可视化的AI工作流搭建工具，就像搭积木一样，不用写代码就能做出复杂的AI应用。",
+      "relevance": "产品经理构建AI应用的神器，适合非技术人员。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "plain_chinese": "一个像ChatGPT一样好用的网页界面，可以连接你自己的AI模型，就像给AI装了个漂亮的门面。",
+      "relevance": "搭建个人AI工作台，方便管理和使用模型。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
+    }
+  ],
   "raw_count": 36
 }
