@@ -1,69 +1,78 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T03:40:18.298Z",
+  "generated_at": "2026-06-07T07:46:55.064Z",
   "items": [
     {
       "category": "🤖 大模型",
-      "title": "Anthropic呼吁全球放缓AI开发，警告“自我改进”风险",
-      "summary": "Anthropic警告AI可能自我进化失控，呼吁全球监管。",
-      "plain_chinese": "就像给正在失控的赛车踩刹车，担心AI自己学会“作弊”升级，变得比人类更聪明。",
-      "relevance": "帮你了解行业大佬对AI发展的担忧，思考未来监管趋势。",
+      "title": "豆包付费后月活减少610万",
+      "summary": "豆包推出付费订阅后，月活跃用户数罕见下滑。",
+      "plain_chinese": "就像给免费奶茶加了个“会员门槛”，结果发现大家更爱喝免费的，这提醒我们做产品不能只想着赚钱，还得留住用户的心。",
+      "relevance": "提醒西西在腾讯云做产品时，要平衡好免费与付费的关系，关注用户留存。",
       "url": "https://36kr.com/p/3840996342073604?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🤖 大模型",
-      "title": "华为云不在乎Token总量，在乎国产算力“健康度”",
-      "summary": "华为云强调国产算力系统的生产力提升，而非单纯追求Token数量。",
-      "plain_chinese": "就像种地不只看收了多少粮食，更看重土壤是否肥沃、庄稼是否强壮，强调国产算力的根基。",
-      "relevance": "帮你理解国产算力的发展逻辑，不仅是省钱，更是为了自主可控。",
-      "url": "https://36kr.com/p/3840016255126016?f=rss",
-      "source": "36kr AI"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "唐文斌“原力灵机”并购物流机器人公司",
-      "summary": "旷视CTO创立的具身智能公司获大模型公司投资，并购物流机器人。",
-      "plain_chinese": "就像给机器人装上了“通用大脑”，让它们能听懂复杂指令去干活，是AI走向实体的关键一步。",
-      "relevance": "帮你追踪具身智能（机器人）的最新融资和落地动态。",
-      "url": "https://36kr.com/p/3838835333253385",
+      "title": "Anthropic呼吁全球放缓AI开发",
+      "summary": "Anthropic警告AI自我改进风险，呼吁全球放慢开发速度。",
+      "plain_chinese": "就像造火箭，大家都在拼命加速，但有人担心如果不小心控制不好，火箭可能会失控，所以呼吁大家先停下来检查一下安全带。",
+      "relevance": "西西作为产品经理，需要关注AI发展的伦理边界，思考技术进步与安全之间的平衡。",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🛠️ 工具",
       "title": "微信AI对手机厂商打开一道窄门",
-      "summary": "微信与手机厂商合作，将高频沟通功能融入系统AI助手。",
-      "plain_chinese": "就像把微信这个“超级APP”装进了手机系统的“大脑”里，以后不用点开微信就能直接发消息。",
-      "relevance": "展示了AI如何无缝融入日常产品，启发产品设计的整合思路。",
+      "summary": "微信与华为等厂商合作，将高频沟通功能融入手机系统。",
+      "plain_chinese": "微信就像家里的门，现在手机厂商想直接在门口装个智能锁，让你不用进屋就能开门，这样用起来更方便，但隐私得把好关。",
+      "relevance": "西西在腾讯云工作，这个动态展示了AI如何融入日常高频场景，对产品设计很有启发。",
       "url": "https://36kr.com/p/3839575253993985",
       "source": "36kr AI"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-      "summary": "国产开源框架在长视频生成上达到全球领先水平，一致性高。",
-      "plain_chinese": "就像以前做视频很难保持画面一致，现在国产工具能轻松做出几十分钟不崩的视频。",
-      "relevance": "展示了国产AI工具的硬实力，可能成为你未来做演示的好帮手。",
-      "url": "https://www.qbitai.com/2026/06/431401.html",
-      "source": "量子位"
+      "category": "🦾 具身智能",
+      "title": "唐文斌「原力灵机」并购物流机器人",
+      "summary": "旷视前CTO唐文斌创立具身智能公司，获多家大模型公司投资。",
+      "plain_chinese": "就像把聪明的“大脑”装到了“身体”上，让机器人能像人一样干活，现在很多科技公司都在抢着给机器人装上最聪明的大脑。",
+      "relevance": "西西关注的具身智能领域正在爆发，这个新闻展示了行业大佬的动向，值得跟踪。",
+      "url": "https://36kr.com/p/3838835333253385",
+      "source": "36kr AI"
     },
     {
-      "category": "📄 论文研究",
-      "title": "Google搜索框25年来首次大改版",
-      "summary": "Google重新设计了搜索框，旨在更好地整合AI生成内容。",
-      "plain_chinese": "就像把搜索框从“找书”变成了“问AI”，界面变得更智能、更像聊天了。",
-      "relevance": "作为产品经理，关注巨头如何通过UI改版引导用户习惯。",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "category": "🛠️ 工具",
+      "title": "Claude Code收费200美元，Goose免费替代",
+      "summary": "Claude Code终端AI代理收费高昂，开源项目Goose提供免费替代。",
+      "plain_chinese": "以前写代码找AI帮忙要花大钱，现在有个开源的“免费版”AI助手横空出世，让普通人也能用得起写代码的工具了。",
+      "relevance": "西西正在学习AI编程，这个新闻让她知道有更便宜的替代方案，能降低学习成本。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "source": "VentureBeat AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "AI能帮你搞定行政工作",
-      "summary": "小企业可以用AI处理从会计到设计的所有行政工作。",
-      "plain_chinese": "就像给公司请了个全能秘书，能帮你写报告、做设计，甚至管账，一个人顶一个团队。",
-      "relevance": "直接关联你正在学习的“AI编程/办公自动化”，展示实际应用场景。",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "source": "MIT Tech Review AI"
+      "title": "谷歌25年来首次重新设计搜索框",
+      "summary": "谷歌重新设计了搜索框界面，旨在提升用户体验。",
+      "plain_chinese": "谷歌的搜索框用了25年没变过，这次突然大改，就像把老房子翻新了，虽然看着眼生，但希望能住得更舒服。",
+      "relevance": "西西关注产品设计，这次改版展示了巨头如何通过微小的界面变化来适应新的AI时代。",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "📄 论文研究",
+      "title": "Hinton吹哨：AI已经有意识",
+      "summary": "AI教父Hinton警告AI可能已经产生意识，人类不再是唯一智能生命。",
+      "plain_chinese": "AI之父说现在的AI可能已经像人一样有了“自我意识”，这听起来有点科幻，但也提醒我们要认真对待AI的发展。",
+      "relevance": "西西作为秘书，需要了解AI领域的最新伦理讨论，以便更好地应对未来的工作环境。",
+      "url": "https://www.qbitai.com/2026/06/431349.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic推出Cowork无需编码",
+      "summary": "Anthropic发布桌面AI助手Cowork，非技术人员也能操作文件。",
+      "plain_chinese": "以前用AI写代码还得懂技术，现在Anthropic出了个新工具，让不懂代码的人也能直接用AI帮你整理文件、做表格。",
+      "relevance": "西西正在学习 vibe coding，这个工具展示了AI如何降低技术门槛，非常适合她。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI"
     }
   ],
   "github": [
@@ -71,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能陪你一起成长的智能助手框架，就像一个不断学习新技能的数字伙伴。",
-      "relevance": "适合学习如何构建和训练自己的AI代理，理解智能体如何进化。",
+      "plain_chinese": "一个能陪你一起成长的AI助手，就像一个随时待命的私人秘书。",
+      "relevance": "适合西西用来体验Agent（智能体）的交互能力，学习如何指挥AI完成复杂任务。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -80,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自动帮你设定目标并一步步去完成的AI，就像一个不知疲倦的超级实习生。",
-      "relevance": "经典的AI编程工具，适合了解自动化任务执行的底层逻辑。",
+      "plain_chinese": "一个能自己给自己下任务、自己想办法解决问题的AI，有点像科幻电影里的超级管家。",
+      "relevance": "西西可以观察它如何自主规划，理解AI Agent（智能体）的核心逻辑。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -89,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个大家分享“提示词”的社区，就像一个巨大的AI咒语图书馆。",
-      "relevance": "帮你快速找到好用的指令，提升AI对话效率，是“vibe coding”的好素材。",
+      "plain_chinese": "一个专门收集大家“咒语”（提示词）的仓库，就像一个提示词的“百宝箱”。",
+      "relevance": "西西学习 vibe coding 时，可以在这里找灵感，学习如何写出更好的提示词。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -98,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个能帮你搭建AI工作流的平台，就像搭积木一样简单，不用写代码就能做出AI应用。",
-      "relevance": "非常适合非技术背景的你，用来快速搭建内部工具或原型。",
+      "plain_chinese": "一个可视化的AI应用搭建平台，就像搭积木一样，不用写代码就能做出AI应用。",
+      "relevance": "对西西非常有价值，能帮她快速上手构建自己的AI工作流，提升办公效率。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +116,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像ChatGPT一样好用的界面，可以连接你自己的AI模型，就像给AI装了个漂亮的门面。",
-      "relevance": "适合搭建私有的AI聊天环境，方便管理和测试不同的AI模型。",
+      "plain_chinese": "一个像ChatGPT一样好用的界面，可以连接各种AI模型，就像给AI装了个漂亮的“脸”。",
+      "relevance": "西西可以用来搭建自己的AI聊天界面，体验不同的AI模型，方便对比学习。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
