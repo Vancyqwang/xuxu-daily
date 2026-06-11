@@ -1,80 +1,126 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T03:43:39.874Z",
+  "generated_at": "2026-06-11T08:27:43.197Z",
   "items": [
     {
+      "category": "🦾 具身智能",
+      "title": "坦途科技发布全球首款水上飞行器",
+      "summary": "坦途科技发布全球首款载人水上飞行器，拓展水陆空出行生态。",
+      "plain_chinese": "就像给汽车装上了翅膀，现在还能在水面上飞，以后出门可能真的能“上天入海”了。",
+      "relevance": "作为产品经理，关注这种硬件与AI结合的新形态，思考如何设计用户体验。",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "何小鹏带队冲刺机器人量产",
+      "summary": "何小鹏发内部信亲自带队，最后200天冲刺机器人量产。",
+      "plain_chinese": "小鹏汽车老板亲自下场，要在最后200天把机器人造出来，说明AI机器人离我们生活不远了。",
+      "relevance": "了解车企在具身智能领域的布局，对产品设计有参考价值。",
+      "url": "https://36kr.com/p/3848000003953926?f=rss",
+      "source": "36kr AI"
+    },
+    {
       "category": "🤖 大模型",
-      "title": "小米1T大模型实测：Vibe Coding七秒交付",
-      "summary": "通用GPU实现1T参数，Vibe Coding极速生成代码。",
-      "plain_chinese": "就像用手机修图一样简单，AI 现在能瞬间写出代码，速度惊人。",
-      "relevance": "直接关联西西正在学习的 vibe coding，展示最新技术落地。",
+      "title": "字节跳动拆分AI制药业务",
+      "summary": "字节跳动将AI制药业务拆分独立融资，进入产业化阶段。",
+      "plain_chinese": "字节把做AI找药的团队独立出来，说明AI不仅能聊天写代码，还能帮人类治病，这可是大生意。",
+      "relevance": "关注AI在垂直领域的应用落地，思考腾讯云如何支持这类创新。",
+      "url": "https://36kr.com/p/3846956646124036",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "小米1T大模型Vibe Coding七秒交付",
+      "summary": "小米通用GPU实现1T大模型，Vibe Coding七秒交付代码。",
+      "plain_chinese": "用AI写代码的速度快得惊人，7秒钟就能搞定，就像以前要写半天，现在AI帮你秒写。",
+      "relevance": "直接关系到你正在学的“Vibe Coding”，展示AI编程的极致效率。",
       "url": "https://www.qbitai.com/2026/06/434225.html",
       "source": "量子位"
     },
     {
-      "category": "🤖 大模型",
-      "title": "百度全新升级高考服务，AI志愿填报+真人验真",
-      "summary": "结合AI与真人专家，提供更精准的高考志愿填报服务。",
-      "plain_chinese": "就像给高考生请了个超级顾问，AI先帮你筛选，再由专家把关。",
-      "relevance": "展示 AI 在垂直领域的具体应用场景。",
-      "url": "https://www.qbitai.com/2026/06/434268.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "清华团队做出全球首个实时理解生理情绪的基座模型",
-      "summary": "能读懂你心跳和表情，打造新一代人机交互范式。",
-      "plain_chinese": "以后 AI 不仅能听懂你说什么，还能通过你的微表情和心跳知道你心情好不好。",
-      "relevance": "关注具身智能与交互设计的前沿，未来产品可能更懂人。",
-      "url": "https://36kr.com/p/3846789531404549",
-      "source": "36氪"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "东风联手九识，商用无人车也有“HI模式”了",
-      "summary": "商用无人车AI基座成型，自动驾驶技术加速落地。",
-      "plain_chinese": "以后送快递的货车可能不需要司机了，AI 接管方向盘，更安全高效。",
-      "relevance": "关注具身智能在物流等实体场景的落地。",
-      "url": "https://www.qbitai.com/2026/06/433956.html",
-      "source": "量子位"
-    },
-    {
       "category": "🛠️ 工具",
-      "title": "Anthropic推出Cowork，无需编程即可操作文件",
-      "summary": "新AI助手让非技术人员也能直接操作电脑文件。",
-      "plain_chinese": "就像给电脑装了个超级管家，你只要动嘴说“把这份报告发给我”，它就自己搞定。",
-      "relevance": "降低 AI 编程门槛，对产品经理非常友好。",
+      "title": "Anthropic推出无需编程的AI助手",
+      "summary": "Anthropic发布Cowork，让非技术人员也能用Claude处理文件。",
+      "plain_chinese": "以前用AI写代码得懂技术，现在这个工具让不懂代码的人也能指挥AI帮你干活。",
+      "relevance": "展示了AI工具如何降低使用门槛，适合产品经理学习。",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat"
+      "source": "VentureBeat AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Claude Code月费高达200美元，Goose免费替代",
-      "summary": "顶级AI编程工具太贵，新开源工具提供免费替代。",
-      "plain_chinese": "原来用 AI 写代码像坐头等舱，现在有经济舱甚至免费的选项了。",
-      "relevance": "帮助西西在预算内尝试 AI 编程工具，降低试错成本。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat"
+      "title": "Claude Code昂贵，Goose免费替代",
+      "summary": "Claude Code每月200美元，新工具Goose提供类似功能且免费。",
+      "plain_chinese": "以前用AI写代码很贵，现在有个叫Goose的工具免费提供类似服务，省钱又好用。",
+      "relevance": "帮你筛选性价比高的AI编程工具，省钱就是赚钱。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-month-goose-does-same-thing-free",
+      "source": "VentureBeat AI"
     },
     {
-      "category": "📄 论文研究",
-      "title": "Google搜索框25年来首次大改版，设计有何深意？",
-      "summary": "搜索框外观巨变，旨在提升AI时代的搜索体验。",
-      "plain_chinese": "就像手机从按键变成触屏一样，搜索框也准备迎接 AI 时代，变得更聪明、更直观。",
-      "relevance": "关注产品设计趋势，理解 AI 如何改变用户体验。",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat"
+      "category": "🤖 大模型",
+      "title": "Nous开源14B编程模型",
+      "summary": "Nous发布开源编程模型，性能媲美顶级闭源模型。",
+      "plain_chinese": "有人做了一个免费且强大的AI编程模型，不需要花钱买，就能写出好代码。",
+      "relevance": "提供了免费的学习资源，适合你练习AI编程。",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat AI"
     },
     {
-      "category": "📄 论文研究",
-      "title": "字节跳动AI制药拆分融资，AI4S进入产业化",
-      "summary": "字节将AI制药业务独立融资，加速药物研发管线。",
-      "plain_chinese": "就像把一个部门变成独立公司，专门用 AI 找药治病。",
-      "relevance": "展示 AI 在非软件领域的产业化应用。",
-      "url": "https://36kr.com/p/3846956646124036",
-      "source": "36氪"
+      "category": "🛠️ 工具",
+      "title": "Meshy发布全球首个3D AI Agent",
+      "summary": "Meshy发布3D AI Agent，让3D创作像ChatGPT一样简单。",
+      "plain_chinese": "以前做3D模型很麻烦，现在有了这个AI Agent，你只要说话，它就能帮你生成3D模型。",
+      "relevance": "关注3D创作工具，这对产品设计很有帮助。",
+      "url": "https://www.qbitai.com/2026/06/434317.html",
+      "source": "量子位"
     }
   ],
-  "github": [],
+  "github": [
+    {
+      "category": "⭐ GitHub",
+      "title": "NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "plain_chinese": "一个能陪你一起成长的AI助手，帮你处理各种任务。",
+      "relevance": "学习如何构建智能体，理解Agent的核心逻辑。",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "plain_chinese": "一个能自己给自己下任务、自己解决问题的AI，有点像科幻电影里的机器人。",
+      "relevance": "了解AI Agent的经典架构，理解自动化流程。",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "f/prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "plain_chinese": "一个存放各种“提示词”的仓库，你可以去里面找别人写好的指令，或者分享自己的。",
+      "relevance": "学习如何写出好的提示词，提升AI交互效果。",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "langgenius/dify",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "plain_chinese": "一个可视化的AI工作流搭建平台，像搭积木一样就能做出AI应用。",
+      "relevance": "适合非技术人员搭建内部工具，提升工作效率。",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "category": "⭐ GitHub",
+      "title": "open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "plain_chinese": "一个好用的AI聊天界面，支持多种模型，界面像ChatGPT一样友好。",
+      "relevance": "搭建个人AI工作台，方便随时调用AI能力。",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub"
+    }
+  ],
   "raw_count": 36
 }
