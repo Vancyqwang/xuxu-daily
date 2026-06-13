@@ -1,62 +1,7 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T03:31:10.944Z",
-  "items": [
-    {
-      "category": "🛠️ 工具",
-      "title": "Claude Code 月费高达200美元，免费替代品 Goose 出现",
-      "summary": "Anthropic的Claude Code终端工具虽强大但昂贵，新开源工具Goose提供类似功能且免费。",
-      "plain_chinese": "Claude Code 就像高级代写助手，但按月收费很贵。Goose 是个免费开源的替代品，功能差不多，帮你省下这笔钱。",
-      "relevance": "帮你对比 AI 编程工具成本，寻找性价比高的方案。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Nous Research 发布 NousCoder-14B 开源模型",
-      "summary": "新开源的 NousCoder-14B 模型在编程能力上匹敌甚至超越部分闭源模型。",
-      "plain_chinese": "这是一个免费的开源编程模型，就像一个不需要付费的“私人程序员”，代码写得不错，适合个人开发者。",
-      "relevance": "为学习 vibe coding 提供了免费且强大的本地模型选择。",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "BEV 技术杀入具身智能领域",
-      "summary": "BEV（鸟瞰图）技术被引入机器人数据领域，加速了具身智能的规模化发展。",
-      "plain_chinese": "以前机器人看路像人一样，现在用“上帝视角”看路，就像给机器人装了个全景摄像头，让它看世界更清楚。",
-      "relevance": "帮你理解具身智能如何通过技术升级变得更聪明。",
-      "url": "https://www.qbitai.com/2026/06/434761.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Anthropic 推出 Cowork，无需编程的桌面助手",
-      "summary": "Anthropic 推出 Cowork，允许非技术人员直接在桌面文件上使用 Claude 的能力。",
-      "plain_chinese": "就像给电脑装了个全能管家，你不用写代码，直接告诉它“帮我整理这个表格”，它就能帮你干活。",
-      "relevance": "非技术背景也能用 AI 帮忙处理文档，非常适合产品经理。",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Railway 融资 1 亿美元挑战 AWS",
-      "summary": "AI 原生云平台 Railway 获得融资，旨在为 AI 应用提供比 AWS 更好的基础设施。",
-      "plain_chinese": "AWS 是云界的“老大哥”，Railway 是个新来的“小弟”，专门为 AI 应用设计，跑起来更顺手，不用折腾复杂的配置。",
-      "relevance": "了解 AI 应用部署的基础设施趋势，方便未来产品上线。",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat AI"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "Google DeepMind 警惕百万 AI 代理互动",
-      "summary": "DeepMind 正在研究当数百万个 AI 代理在线互动时可能带来的潜在风险。",
-      "plain_chinese": "想象一下，如果成千上万个 AI 机器人同时在互联网上聊天，它们会不会搞出乱子？科学家正在研究这个问题。",
-      "relevance": "帮你了解 AI 代理未来的潜在风险，保持行业敏感度。",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Tech Review AI"
-    }
-  ],
+  "generated_at": "2026-06-13T07:47:53.443Z",
+  "items": [],
   "github": [],
   "raw_count": 36
 }
