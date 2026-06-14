@@ -1,69 +1,60 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T03:48:15.067Z",
+  "generated_at": "2026-06-14T08:07:18.560Z",
   "items": [
     {
-      "category": "🤖 大模型",
-      "title": "Anthropic紧急停用最强Claude",
-      "summary": "最强Claude Fable 5上线72小时后全球禁用，连自家员工都不能用。",
-      "plain_chinese": "就像刚买的新手机突然被锁了，连自家员工都不能用，说明大模型的安全和稳定性还得再打磨。",
-      "relevance": "了解大模型安全与稳定性风险，避免踩坑。",
-      "url": "https://36kr.com/p/3851015329027336?f=rss",
-      "source": "36kr AI"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "1500美元训出HRM模型",
-      "summary": "低成本小模型获HuggingFace力荐，参数量只有1B。",
-      "plain_chinese": "花很少的钱就能训练出好用的模型，说明不是越贵越好，小而美也很重要。",
-      "relevance": "学习低成本AI开发思路，省钱又高效。",
-      "url": "https://www.qbitai.com/2026/06/435483.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "DeepMind担忧百万AI交互",
-      "summary": "研究百万AI在线交互的潜在危险，关注生态风险。",
-      "plain_chinese": "就像成千上万的人同时在网上吵架，可能会引发混乱，AI多了也会互相干扰。",
-      "relevance": "理解AI生态系统的潜在风险，保持警惕。",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Tech Review AI"
-    },
-    {
       "category": "🛠️ 工具",
-      "title": "Claude Code月费高达200美元",
-      "summary": "AI编程工具Claude Code收费昂贵，竞品提供免费替代方案。",
-      "plain_chinese": "用AI写代码很方便，但每个月要花不少钱，得算算账，看看值不值。",
-      "relevance": "评估AI编程工具的成本效益，寻找平替。",
+      "title": "Claude Code 月费高达200美元，免费替代品来了",
+      "summary": "Claude Code 是个写代码的 AI 助手，但很贵；有个叫 Goose 的工具能免费做同样的事。",
+      "plain_chinese": "以前用 Word 要买正版，现在有免费版能干一样的事，省钱神器。",
+      "relevance": "帮你省钱，了解 AI 编程工具的性价比。",
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI"
+      "source": "VentureBeat"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Anthropic推Cowork非程序员",
-      "summary": "非程序员也能用Claude处理文件，无需写代码。",
-      "plain_chinese": "不用写代码，直接让AI帮你整理文档、做表格，对产品经理特别友好。",
-      "relevance": "学习如何让AI辅助产品设计和办公，提升效率。",
+      "title": "Anthropic 推出 Cowork，不用写代码也能用 AI 办公",
+      "summary": "新工具让非技术人员也能通过 Claude 处理文件，无需编程知识。",
+      "plain_chinese": "以前用 AI 写代码要懂技术，现在这个工具就像个全能秘书，直接帮你整理文件、处理工作。",
+      "relevance": "适合你这种非技术背景，能直接上手体验 AI 办公。",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI"
+      "source": "VentureBeat"
     },
     {
       "category": "🦾 具身智能",
-      "title": "高瓴投柔性机器人，2026年发布MoYa",
-      "summary": "消费级柔性机器人公司获高瓴投资，首款产品MoYa将于2026年发布。",
-      "plain_chinese": "就像电影里的机器人要进家了，以后可能帮你做家务，具身智能越来越近了。",
-      "relevance": "关注具身智能趋势，了解未来产品形态。",
+      "title": "高瓴投资柔性机器人，要把“大白”搬进家庭",
+      "summary": "SoulX 获得融资，计划 2026 年发布首款家庭护理机器人。",
+      "plain_chinese": "就是那种像电影《超能陆战队》里的“大白”机器人，能照顾人、陪睡，以后可能真的能买回家。",
+      "relevance": "关注具身智能趋势，了解未来家庭服务形态。",
       "url": "https://36kr.com/p/3851572421432324?f=rss",
-      "source": "36kr AI"
+      "source": "36kr"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Railway 获 1 亿美元融资，挑战 AWS 的 AI 云平台",
+      "summary": "一个面向 AI 开发者的云平台，专门为 AI 应用设计，无需复杂配置。",
+      "plain_chinese": "AWS 是云界的“老大哥”，Railway 是个新来的“小弟”，专门给 AI 开发者建房子，不用自己买服务器。",
+      "relevance": "了解 AI 开发的基础设施，以后可能需要部署自己的 AI 应用。",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Google 搜索框 25 年来首次大改版",
+      "summary": "为了适应 AI 时代，搜索框变得更智能、更像聊天，减少点击链接。",
+      "plain_chinese": "以前 Google 搜索像翻字典，现在改得像跟人聊天，直接给你答案，不用点链接。",
+      "relevance": "产品设计趋势，AI 如何改变用户界面。",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat"
     },
     {
       "category": "📄 论文研究",
-      "title": "Google重搜框25年首改",
-      "summary": "谷歌搜索框迎来25年来首次大改版，融入AI搜索功能。",
-      "plain_chinese": "就像微信聊天界面改版一样，是为了更好地融入AI功能，让搜索更智能。",
-      "relevance": "关注产品设计趋势与用户体验，AI如何改变交互。",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat AI"
+      "title": "DeepMind 担心：百万 AI 互相聊天会出乱子",
+      "summary": "研究 AI 代理大规模互动的潜在风险，探索安全边界。",
+      "plain_chinese": "如果几百万个 AI 机器人同时在互联网上聊天，它们会不会搞出什么不可控的事情？",
+      "relevance": "了解 AI 安全和伦理，思考技术发展的边界。",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Tech Review"
     }
   ],
   "github": [
@@ -71,8 +62,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能跟着你一起成长的AI助手，能处理越来越复杂的任务。",
-      "relevance": "学习如何管理复杂的AI任务流，提升自动化能力。",
+      "plain_chinese": "一个能自己成长的 AI 代理框架，支持多模态交互。",
+      "relevance": "帮你理解 AI 智能体是如何运作的，对学习 AI 编程架构有帮助。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -80,8 +71,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自己给自己下任务、自动执行的AI，像个小管家。",
-      "relevance": "探索自动化工作流的可能性，解放双手。",
+      "plain_chinese": "最早的一批“全自动 AI”，能自己给自己派任务并执行。",
+      "relevance": "了解 AI 编程的起源，感受“自动化”的潜力。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -89,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个收集大家怎么跟AI说话的社区，像提示词的百科全书。",
-      "relevance": "学习如何写出更好的提示词，提升AI使用效果。",
+      "plain_chinese": "大家分享好用的 AI 提示词的地方，像是一个提示词博物馆。",
+      "relevance": "学习如何写好提示词，提升 AI 编程和沟通效率。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -98,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个搭建AI应用的平台，不用写代码就能做出智能助手。",
-      "relevance": "学习如何快速开发AI产品，适合产品经理上手。",
+      "plain_chinese": "一个能自己搭 AI 应用工作流的平台，支持可视化编排。",
+      "relevance": "适合想快速搭建 AI 产品的人，不用写代码就能组合功能。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像聊天软件一样的AI界面，支持本地运行各种模型。",
-      "relevance": "方便本地运行和测试AI模型，体验更私密。",
+      "plain_chinese": "一个长得像 ChatGPT 的开源界面，支持多种模型。",
+      "relevance": "学习 AI 产品的交互设计，体验不同的用户界面。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
