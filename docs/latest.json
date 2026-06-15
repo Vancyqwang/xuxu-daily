@@ -1,77 +1,77 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T04:03:27.117Z",
+  "generated_at": "2026-06-15T09:51:39.329Z",
   "items": [
     {
       "category": "🦾 具身智能",
-      "title": "VLA不会死，但世界模型是未来",
-      "summary": "行业转向世界模型，解决机器人物理常识短板",
-      "plain_chinese": "就像教人学开车，以前只看红绿灯（识别），现在要懂刹车力度（物理规律）。",
-      "relevance": "帮你理解具身智能的核心发展方向。",
-      "url": "https://36kr.com/p/3853016586359817?f=rss",
-      "source": "36kr AI"
-    },
-    {
-      "category": "🦾 具身智能",
-      "title": "海洋具身智能公司获10亿融资",
-      "summary": "全球海洋机器人领域最大单轮融资，朱啸虎等押注。",
-      "plain_chinese": "就像给水下机器人装了“超级大脑”，以后深海作业可能不用人去了。",
-      "relevance": "了解具身智能在垂直领域的投资热点。",
+      "title": "海洋机器人公司获10亿融资，朱啸虎押注",
+      "summary": "全球海洋机器人领域最大单轮融资，朱啸虎第五次投资。",
+      "plain_chinese": "想象一下水下机器人像无人机一样，能帮我们干苦力活。这家公司拿到了大钱，说明水下机器人以后会越来越普及。",
+      "relevance": "帮你了解具身智能在深海领域的应用前景。",
       "url": "https://36kr.com/p/3853011900142848?f=rss",
       "source": "36kr AI"
     },
     {
       "category": "🦾 具身智能",
-      "title": "高瓴投资柔性机器人公司",
-      "summary": "消费级机器人SoulX获天使轮，主打家庭健康护理。",
-      "plain_chinese": "电影里的“大白”要来了，以后家里能有个机器人帮你按摩、哄睡。",
-      "relevance": "关注消费级机器人的落地场景。",
+      "title": "智源院长：世界模型是具身智能的未来",
+      "summary": "VLA模型不会死，但世界模型能解决机器人不懂物理规律的问题。",
+      "plain_chinese": "现在的机器人像只会听指令的“复读机”，世界模型则是让机器人学会“物理直觉”，比如知道推杯子会掉。",
+      "relevance": "帮你理解为什么大家都在研究机器人“懂不懂物理”。",
+      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "高瓴投资柔性机器人，要把“大白”搬进现实",
+      "summary": "消费级柔性机器人公司获天使轮，首款产品2026年发布。",
+      "plain_chinese": "以后家里可能真的会有像电影《超能陆战队》里那样软乎乎、能照顾人的机器人了，专门负责睡觉和缓解压力。",
+      "relevance": "展示了具身智能在消费级产品（C端）的落地潜力。",
       "url": "https://36kr.com/p/3851572421432324?f=rss",
       "source": "36kr AI"
     },
     {
-      "category": "🤖 大模型",
-      "title": "天工AI公布Matrix-Game 3.5",
-      "summary": "昆仑万维发布世界模型技术突破，重新定义游戏AI。",
-      "plain_chinese": "游戏里的NPC开始变聪明了，能理解物理规则，不再只会重复台词。",
-      "relevance": "理解大模型在游戏和物理模拟中的应用。",
-      "url": "https://www.qbitai.com/2026/06/435520.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "1500美元训出的HRM模型火了",
-      "summary": "参数量仅1B，HuggingFace CEO力荐，Bengio团队押注。",
-      "plain_chinese": "用很少的钱就能训练出好模型，就像用廉价材料造出了精巧的模型。",
-      "relevance": "关注低成本、高效率的大模型训练趋势。",
-      "url": "https://www.qbitai.com/2026/06/435483.html",
-      "source": "量子位"
-    },
-    {
       "category": "🦾 具身智能",
-      "title": "Agent终于长出了身体",
-      "summary": "探索下一代物理世界的智能系统。",
-      "plain_chinese": "以前AI在电脑里跑，现在给它装上机械臂，让它真的能干活了。",
-      "relevance": "理解AI从虚拟走向实体的关键一步。",
-      "url": "https://www.qbitai.com/2026/06/435455.html",
+      "title": "清华系公司把具身智能送进真实产线",
+      "summary": "成立一年就拿车厂订单，具身智能从实验室走向智能生产力。",
+      "plain_chinese": "机器人不再只是摆拍，而是真的去工厂里干活了，帮人类搬东西、做零件。",
+      "relevance": "告诉你具身智能正在变成“智能生产力”，不只是概念。",
+      "url": "https://www.qbitai.com/2026/06/435574.html",
       "source": "量子位"
     },
     {
-      "category": "📄 产品设计",
-      "title": "Google搜索框25年来首次大改版",
-      "summary": "重新设计搜索界面，更注重AI生成内容的展示。",
-      "plain_chinese": "搜索框不再只是找链接，更像是一个能直接回答问题的AI助手入口。",
-      "relevance": "关注AI时代的产品设计趋势。",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "category": "🤖 大模型",
+      "title": "开源音频生成大模型，4步出声单卡0.24秒",
+      "summary": "港科大清华联合开源，支持时间戳，生成速度快。",
+      "plain_chinese": "就像给AI装了个“扩音器”，它能根据文字瞬间变出声音，还能精确控制时间点，做配音或播客很方便。",
+      "relevance": "适合做产品设计或内容创作的工具参考。",
+      "url": "https://www.qbitai.com/2026/06/435802.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "华为云重新造地基，Agent时代来了",
+      "summary": "针对Agent时代重新设计基础设施，支持多智能体协作。",
+      "plain_chinese": "以前AI是单打独斗，现在华为云给AI搭好了“大舞台”和“规则”，让多个AI能像团队一样配合工作。",
+      "relevance": "腾讯云的竞争对手在搞Agent基建，你需要关注。",
+      "url": "https://www.qbitai.com/2026/06/435531.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code太贵？这款免费工具能替代",
+      "summary": "Goose提供类似Claude Code的代码生成功能，且免费。",
+      "plain_chinese": "写代码的AI助手以前很贵，现在有个叫Goose的免费替代品，功能差不多，帮你省下每月200美元。",
+      "relevance": "直接帮你省钱，适合学习AI编程。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "source": "VentureBeat AI"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Claude Code月费200，Goose免费",
-      "summary": "AI编程工具成本高昂，新工具试图提供免费替代方案。",
-      "plain_chinese": "用AI写代码很贵，现在有人推出了免费版，让普通人也能玩转编程。",
-      "relevance": "帮你筛选性价比高的AI编程工具。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "title": "Anthropic推新工具Cowork，不用写代码也能用AI",
+      "summary": "让非技术人员也能通过Claude管理文件和任务。",
+      "plain_chinese": "以前用AI写代码得懂技术，现在Anthropic出了个新工具，你只要会说话、会点鼠标，就能让AI帮你整理文件。",
+      "relevance": "非技术背景的你也能直接上手体验AI生产力。",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "source": "VentureBeat AI"
     }
   ],
@@ -80,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能跟着你一起成长的AI助手框架。",
-      "relevance": "学习如何构建长期记忆的智能体。",
+      "plain_chinese": "这是一个能陪你成长的AI助手框架，就像一个不断进化的私人管家。",
+      "relevance": "适合想搭建个性化AI助手的人。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -89,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个能自己设定目标并自动执行任务的AI。",
-      "relevance": "了解自主Agent的基本工作原理。",
+      "plain_chinese": "一个让AI自己给自己下任务、自己解决问题的经典项目，就像一个不知疲倦的实习生。",
+      "relevance": "了解AI自主性的经典案例。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -98,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个专门收集和分享“提示词”的社区库。",
-      "relevance": "学习如何写出更好的提示词来控制AI。",
+      "plain_chinese": "一个社区共享“魔法咒语”（提示词）的地方，你可以偷师别人的提问技巧。",
+      "relevance": "学习怎么更好地和AI沟通。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -107,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个让你不用写代码就能搭建AI应用的工作台。",
-      "relevance": "非技术背景也能快速上手搭建AI产品。",
+      "plain_chinese": "一个像搭积木一样搭建AI应用的平台，不用写代码就能做出聊天机器人。",
+      "relevance": "产品经理或运营必备的AI工具。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -116,8 +116,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像ChatGPT一样好用的本地AI聊天界面。",
-      "relevance": "方便你离线体验和测试各种AI模型。",
+      "plain_chinese": "一个好用的AI聊天界面，支持本地部署，就像给AI装了个漂亮的浏览器。",
+      "relevance": "适合想自己搭建AI聊天室或本地部署模型。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
