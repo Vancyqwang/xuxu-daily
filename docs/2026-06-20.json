@@ -1,7 +1,62 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T03:32:17.444Z",
-  "items": [],
+  "generated_at": "2026-06-20T07:42:13.887Z",
+  "items": [
+    {
+      "category": "🦾 具身智能",
+      "title": "全球首个人形机器人通用小脑来了",
+      "summary": "基于海量数据训练，实现零样本泛化，人形机器人迈入“GPT时代”。",
+      "plain_chinese": "就像给机器人装了一个超级大脑，以前学新动作很难，现在它看一眼就能学会，像人类一样灵活。",
+      "relevance": "符合西西关注的具身智能领域，展示了机器人技术的最新突破。",
+      "url": "https://www.qbitai.com/2026/06/436813.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Anthropic推出Cowork，无需写代码也能用AI处理文件",
+      "summary": "将Claude Code能力扩展给非技术用户，直接在桌面端操作文件。",
+      "plain_chinese": "以前用AI写代码得懂技术，现在这个新工具就像个全能助手，你只要告诉它想干嘛，它就能帮你整理电脑里的文件。",
+      "relevance": "非常适合西西学习 vibe coding，降低了使用高级AI工具的技术门槛。",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code月费高达200美元，Goose提供免费替代方案",
+      "summary": "对比了Claude Code的昂贵成本与开源替代品Goose的功能。",
+      "plain_chinese": "用AI写代码现在很火但很贵，有个叫Goose的开源工具能免费干类似的事，帮咱们省钱。",
+      "relevance": "帮助西西了解AI编程工具的成本结构和开源替代选择。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "NousResearch发布NousCoder-14B开源编程模型",
+      "summary": "开源编程模型，性能媲美顶尖闭源模型，适合本地部署。",
+      "plain_chinese": "这是一个免费且强大的AI编程模型，就像把大厂的高级程序员装进了电脑里，随时可以调用。",
+      "relevance": "对西西学习AI编程和本地部署很有价值，提供了强大的开源工具。",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "📄 论文研究",
+      "title": "Google搜索框25年来首次大改版",
+      "summary": "重新设计搜索界面，引入AI生成内容，改变信息获取方式。",
+      "plain_chinese": "大家用了25年的搜索框变了，现在更像是在跟AI聊天，而不是单纯找链接。",
+      "relevance": "展示了AI如何重塑产品设计，对西西的产品设计工作有启发。",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Salesforce推出全新AI版Slackbot",
+      "summary": "从简单的通知工具变成强大的工作助手，能处理复杂任务。",
+      "plain_chinese": "公司用的聊天软件现在自带了超级AI助手，能帮你自动回复消息、整理会议纪要，干活更高效。",
+      "relevance": "展示了AI在工作流中的实际应用，对提升办公效率有帮助。",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and-google-in-workplace-ai",
+      "source": "VentureBeat AI"
+    }
+  ],
   "github": [],
   "raw_count": 36
 }
