@@ -1,67 +1,76 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T03:58:09.010Z",
+  "generated_at": "2026-06-21T08:20:55.264Z",
   "items": [
     {
       "category": "🦾 具身智能",
-      "title": "英伟达亲自下场研究机器人",
-      "summary": "英伟达开始用 AI 研究机器人，让机器人自己进化。",
-      "plain_chinese": "就像教孩子自己学习走路，而不是一直扶着。",
-      "relevance": "了解具身智能的最新动态。",
+      "title": "AI陪伴机器人ZuzuZoos获数千万元融资",
+      "summary": "AI原生潮玩品牌ZuzuZoos获融资，专注AI陪伴机器人。",
+      "plain_chinese": "就像给机器人装上了会说话的“大脑”，以后能陪你聊天解闷了。",
+      "relevance": "西西关注具身智能，这是硬件落地的例子。",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "滴滴自动驾驶亮相伦敦MOVE 2026",
+      "summary": "滴滴展示L4级自动驾驶技术及Robotaxi。",
+      "plain_chinese": "不用自己开车，车自己就能在街上跑，像科幻电影一样。",
+      "relevance": "具身智能在出行领域的应用。",
+      "url": "https://36kr.com/p/3858015526704129?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🦾 具身智能",
+      "title": "英伟达开始搞机器人自己研究机器人",
+      "summary": "英伟达卷入机器人领域，试图让AI控制硬件。",
+      "plain_chinese": "英伟达不仅造显卡，现在还开始教机器人怎么自己思考了。",
+      "relevance": "具身智能的核心是AI控制硬件。",
       "url": "https://www.qbitai.com/2026/06/437041.html",
       "source": "量子位"
     },
     {
       "category": "🦾 具身智能",
-      "title": "人形机器人迎来“GPT时代”",
-      "summary": "全球首个通用小脑模型发布，零样本泛化能力极强。",
-      "plain_chinese": "给机器人装上了一个超级大脑，不用重新教就能做新动作。",
-      "relevance": "具身智能领域的重大突破。",
-      "url": "https://www.qbitai.com/2026/06/436813.html",
+      "title": "脑机接口试验正在起飞",
+      "summary": "ALS患者通过脑机接口控制设备。",
+      "plain_chinese": "不用说话或动手，直接用“意念”就能控制电脑，像《黑客帝国》一样。",
+      "relevance": "具身智能的高级形态，人机交互的终极形态。",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "蔚来推送世界模型重构智驾",
+      "summary": "蔚来让同一套代码跑在不同代际芯片上。",
+      "plain_chinese": "就像给汽车装了一个“通用大脑”，不管车是老款新款，都能用最好的智慧开车。",
+      "relevance": "大模型在汽车领域的应用，提升产品体验。",
+      "url": "https://36kr.com/p/3858329994875908?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "2026年1800个DeepSeek守护艾泽拉斯",
+      "summary": "DeepSeek模型进入游戏世界。",
+      "plain_chinese": "游戏里的NPC可能都变成了AI，能和你自由对话。",
+      "relevance": "AI大模型在娱乐和游戏设计中的应用。",
+      "url": "https://www.qbitai.com/2026/06/437141.html",
       "source": "量子位"
     },
     {
       "category": "🛠️ 工具",
-      "title": "Claude Code太贵？有免费替代品",
-      "summary": "Claude Code 每月最高200美元，新工具 Goose 免费提供类似功能。",
-      "plain_chinese": "以前写代码要花大价钱请专家，现在有免费工具能帮你干活了。",
-      "relevance": "帮你省钱学 AI 编程。",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat"
-    },
-    {
-      "category": "🛠️ 工具",
-      "title": "Anthropic推新工具 Cowork",
-      "summary": "无需写代码，直接在文件里操作，非技术人员也能用。",
-      "plain_chinese": "就像有个秘书帮你整理文件，你只需要动动嘴，不用懂技术。",
-      "relevance": "非常适合非技术背景的你。",
+      "title": "Anthropic推出无需编程的AI助手",
+      "summary": "非技术人员也能用Claude处理文件。",
+      "plain_chinese": "不用懂代码，直接把文件拖给AI，它就能帮你整理、写报告。",
+      "relevance": "Vibe Coding的核心，让非技术人员也能用AI。",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat"
+      "source": "VentureBeat AI"
     },
     {
-      "category": "🛠️ 工具",
-      "title": "开源模型 NousCoder-14B 上线",
-      "summary": "性能媲美顶尖闭源模型，适合本地部署。",
-      "plain_chinese": "像开源软件一样免费，但能力很强，适合个人电脑运行。",
-      "relevance": "学习 vibe coding 的好资源。",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "AI能“进入”你的梦境",
-      "summary": "把梦境输入 AI，它能直接生成互动游戏场景。",
-      "plain_chinese": "把你的梦变成游戏，AI 成了你的游戏设计师。",
-      "relevance": "产品设计的新思路。",
-      "url": "https://www.qbitai.com/2026/06/436864.html",
-      "source": "量子位"
-    },
-    {
-      "category": "🤖 大模型",
-      "title": "陶哲轩预言被 AI 兑现",
-      "summary": "数学家预言被 AI 在 12 年后验证，AI 变成了数学家助手。",
-      "plain_chinese": "AI 帮数学家验证了难题，证明了它不仅能聊天还能搞科研。",
-      "relevance": "看到 AI 在科研领域的潜力。",
+      "category": "📄 论文研究",
+      "title": "陶哲轩12年前预言被AI兑现",
+      "summary": "AI帮助解决数学问题。",
+      "plain_chinese": "数学家预言的事，AI帮他实现了，说明AI越来越聪明了。",
+      "relevance": "AI在科研领域的突破。",
       "url": "https://www.qbitai.com/2026/06/437023.html",
       "source": "量子位"
     }
@@ -71,8 +80,8 @@
       "category": "⭐ GitHub",
       "title": "NousResearch/hermes-agent",
       "summary": "The agent that grows with you",
-      "plain_chinese": "一个能跟着你一起成长的智能助手，能帮你处理各种任务。",
-      "relevance": "学习如何构建能自主行动的 AI 代理。",
+      "plain_chinese": "一个能不断学习和成长的AI代理。",
+      "relevance": "学习如何构建能自主工作的AI助手。",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub"
     },
@@ -80,8 +89,8 @@
       "category": "⭐ GitHub",
       "title": "Significant-Gravitas/AutoGPT",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "plain_chinese": "一个让 AI 自动设定目标并自己完成任务的框架。",
-      "relevance": "了解 AI 自动化工作流的基础逻辑。",
+      "plain_chinese": "一个能自己给自己设定目标并执行的AI。",
+      "relevance": "理解AI自主性的经典案例。",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub"
     },
@@ -89,8 +98,8 @@
       "category": "⭐ GitHub",
       "title": "f/prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "plain_chinese": "一个收集大家写好的“提示词”的社区，像提示词的图书馆。",
-      "relevance": "学习如何写出好提示词，提升 AI 编程效率。",
+      "plain_chinese": "一个存放各种“提示词”的仓库，别人写好的好问题你也能用。",
+      "relevance": "学习如何写出更好的提示词。",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub"
     },
@@ -98,8 +107,8 @@
       "category": "⭐ GitHub",
       "title": "langgenius/dify",
       "summary": "Production-ready platform for agentic workflow development.",
-      "plain_chinese": "一个可视化的 AI 应用搭建平台，像搭积木一样简单。",
-      "relevance": "学习如何用可视化工具开发 AI 应用。",
+      "plain_chinese": "一个像搭积木一样搭建AI工作流的平台。",
+      "relevance": "非技术背景的人也能搭建自己的AI应用。",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub"
     },
@@ -107,8 +116,8 @@
       "category": "⭐ GitHub",
       "title": "open-webui/open-webui",
       "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "plain_chinese": "一个像 ChatGPT 一样好用的界面，可以连接你自己的 AI 模型。",
-      "relevance": "搭建自己的 AI 工作台，方便日常使用。",
+      "plain_chinese": "一个很好用的AI聊天界面，支持本地部署。",
+      "relevance": "搭建个人AI助手，方便日常使用。",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub"
     }
