@@ -1,7 +1,71 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T02:58:34.791Z",
-  "items": [],
+  "generated_at": "2026-06-25T07:32:18.997Z",
+  "items": [
+    {
+      "category": "🦾 具身智能",
+      "title": "雷鸟创新 AR 眼镜 Q1 全球出货登顶",
+      "summary": "全球 AR 眼镜市场爆发，雷鸟创新领跑，大众消费市场渗透加速。",
+      "plain_chinese": "想象一下，AR 眼镜就像给眼睛戴了一副“增强现实”的墨镜，现在大家开始愿意花钱买了，雷鸟这家公司卖得最好。",
+      "relevance": "作为产品经理，关注硬件形态的演变，思考 AI 如何融入这些新设备。",
+      "url": "https://36kr.com/p/3868204527457287?f=rss",
+      "source": "36kr AI"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "马斯克预测 GLM 明年追平 Fable",
+      "summary": "马斯克看好智谱 GLM，认为其明年 Q1 能力追平 Fable，智谱对此回应。",
+      "plain_chinese": "就像两个跑步选手在比赛，马斯克觉得智谱跑得很快，明年就能追上对手，智谱觉得没那么夸张。",
+      "relevance": "了解国内大模型厂商的竞争格局，把握行业技术发展速度。",
+      "url": "https://www.qbitai.com/2026/06/438351.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "中国 AI 应用首现 3 亿 ARR 独角兽",
+      "summary": "中国 AI 应用公司首现 3 亿 ARR 独角兽，腾讯顺为红杉继续加码。",
+      "plain_chinese": "有个做 AI 应用赚钱的公司，年收入达到了 3 亿，投资人觉得它很有前途，继续给它投钱。",
+      "relevance": "观察 AI 商业化落地的实际案例，理解市场对 AI 产品的付费意愿。",
+      "url": "https://www.qbitai.com/2026/06/438336.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Claude Code 月费高达 200 美元，Goose 免费替代",
+      "summary": "Claude Code 贵得离谱，有开源工具 Goose 能免费做同样的事。",
+      "plain_chinese": "以前用 AI 写代码很贵，现在有个叫 Goose 的免费工具，能帮你搞定和付费版一样的事。",
+      "relevance": "正在学 vibe coding，这个消息帮我省钱，还能找到好用的免费工具。",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "🛠️ 工具",
+      "title": "Google 搜索框 25 年来首次大改版",
+      "summary": "Google 搜索框设计大变样，旨在更好地整合 AI 功能，提升用户体验。",
+      "plain_chinese": "Google 搜索框长这样 25 年了，最近突然变了，主要是想塞进更多 AI 功能，让找东西更方便。",
+      "relevance": "产品设计趋势的标杆，学习巨头如何通过 UI 改造来适应 AI 时代。",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI"
+    },
+    {
+      "category": "📄 论文研究",
+      "title": "HIL-ResRL：1小时真机 RL 微调成功率破 95%",
+      "summary": "一种即插即用的 VLA“外挂”神器，大幅提升机器人操作成功率。",
+      "plain_chinese": "给机器人装上这个“外挂”插件，它就能像人一样灵活地操作东西，而且学得特别快。",
+      "relevance": "关注具身智能在机器人领域的最新突破，理解 AI 如何赋予机器人的“手眼协调”能力。",
+      "url": "https://www.qbitai.com/2026/06/438166.html",
+      "source": "量子位"
+    },
+    {
+      "category": "🤖 大模型",
+      "title": "NousCoder-14B 开源模型发布",
+      "summary": "Nous Research 发布开源编程模型 NousCoder-14B，性能媲美 Claude Code。",
+      "plain_chinese": "有个开源的 AI 编程助手，能力很强，而且代码是公开的，大家都能免费拿去用。",
+      "relevance": "学习 vibe coding 的好帮手，可以本地部署，保护隐私且免费。",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat AI"
+    }
+  ],
   "github": [],
   "raw_count": 36
 }
